@@ -1,0 +1,601 @@
+Session_ID,Session_Date,City,Station_Name,Charger_Type,Connector_Type,Customer_Type,Payment_Method,Session_Status,Energy_Delivered_kWh,Charging_Duration_Min,Rate_Per_kWh_INR,Revenue_INR,Station_Uptime_Percent,Charger_Utilization_Percent,Customer_Rating
+EVS0001,2025-04-13,Noida,Highway Stop,AC,Type 2,Taxi/Ride-share,Card,Completed,18.15,106,12,217.8,98.9,72.2,5
+EVS0002,2026-03-12,Agra,Highway Stop,AC,Type 2,Private,UPI,Completed,11.22,118,12,134.64,96.4,8.0,5
+EVS0003,2025-09-28,Lucknow,Tech Park Station,DC Fast,CCS2,Fleet,UPI,Completed,39.22,47,18,635.36,95.4,56.3,3
+EVS0004,2025-04-17,Noida,Market Square,AC,Type 2,Fleet,Subscription,Completed,16.4,117,12,177.12,90.9,36.5,4
+EVS0005,2025-03-13,Chandigarh,Tech Park Station,DC Fast,CCS2,Private,UPI,Completed,33.58,45,18,604.44,97.0,57.3,5
+EVS0006,2025-01-21,Jaipur,Market Square,AC,Type 2,Private,Subscription,Completed,10.54,118,12,126.48,95.6,3.0,4
+EVS0007,2026-09-07,Kanpur,Business District,AC,Type 2,Taxi/Ride-share,Wallet,Completed,15.22,133,12,182.64,97.7,15.2,5
+EVS0008,2025-05-02,Gurugram,City Centre Hub,DC Fast,CCS2,Private,UPI,Completed,33.49,57,18,602.82,98.6,41.6,3
+EVS0009,2026-04-12,Lucknow,Business District,Ultra Fast,CCS2,Private,Card,Cancelled,1.14,9,22,0.0,99.7,60.9,2
+EVS0010,2025-08-03,Lucknow,Residential Cluster,AC,Type 2,Taxi/Ride-share,Wallet,Completed,27.41,122,12,328.92,97.0,34.2,5
+EVS0011,2025-11-27,Lucknow,University Point,DC Fast,CHAdeMO,Fleet,Card,Cancelled,0.64,19,18,0.0,92.9,49.5,4
+EVS0012,2026-04-04,Agra,Mall Parking,Ultra Fast,CCS2,Private,Subscription,Completed,36.6,31,22,805.2,89.6,69.3,3
+EVS0013,2025-03-29,Noida,Market Square,AC,Type 2,Taxi/Ride-share,Subscription,Completed,29.57,89,12,354.84,93.5,26.3,5
+EVS0014,2026-01-08,Agra,Residential Cluster,DC Fast,CCS2,Private,UPI,Completed,30.03,49,18,540.54,100.0,9.9,5
+EVS0015,2025-04-10,Noida,University Point,AC,Type 2,Taxi/Ride-share,UPI,Completed,22.82,92,12,273.84,100.0,31.5,3
+EVS0016,2025-05-11,Chandigarh,Railway Station Hub,AC,Type 2,Taxi/Ride-share,Subscription,Completed,8.32,134,12,99.84,95.3,65.8,5
+EVS0017,2025-11-05,Agra,City Centre Hub,Ultra Fast,CCS2,Fleet,Card,Cancelled,0.64,5,22,0.0,91.6,42.7,5
+EVS0018,2025-12-10,Agra,Tech Park Station,AC,Type 2,Fleet,UPI,Completed,27.77,116,12,299.92,94.1,31.7,5
+EVS0019,2026-05-07,Kanpur,Tech Park Station,DC Fast,CCS2,Corporate,UPI,Completed,32.85,38,18,591.3,99.4,70.1,5
+EVS0020,2026-02-18,Jaipur,Business District,DC Fast,CHAdeMO,Private,Card,Completed,18.29,54,18,329.22,94.2,44.5,4
+EVS0021,2026-01-21,Agra,Highway Stop,AC,Type 2,Taxi/Ride-share,Subscription,Completed,20.58,118,12,246.96,97.8,33.7,4
+EVS0022,2025-07-11,Kanpur,University Point,DC Fast,CCS2,Private,Wallet,Completed,30.7,36,18,552.6,96.5,57.4,1
+EVS0023,2025-10-04,Delhi,Railway Station Hub,Ultra Fast,CCS2,Private,Card,Completed,59.37,24,22,1306.14,98.1,44.3,2
+EVS0024,2025-06-10,Jaipur,Residential Cluster,AC,Type 2,Private,UPI,Completed,17.6,124,12,211.2,100.0,44.6,4
+EVS0025,2026-04-05,Chandigarh,City Centre Hub,Ultra Fast,CCS2,Corporate,UPI,Completed,48.28,56,22,1062.16,97.8,16.5,4
+EVS0026,2025-11-10,Agra,University Point,DC Fast,CCS2,Corporate,Wallet,Completed,12.27,47,18,220.86,96.4,67.9,3
+EVS0027,2025-01-22,Gurugram,Railway Station Hub,DC Fast,CCS2,Private,UPI,Completed,24.1,25,18,433.8,100.0,41.8,4
+EVS0028,2025-09-10,Lucknow,Mall Parking,DC Fast,CHAdeMO,Private,UPI,Completed,26.88,42,18,483.84,97.0,30.5,3
+EVS0029,2026-07-15,Delhi,Market Square,AC,Type 2,Taxi/Ride-share,UPI,Completed,18.62,87,12,223.44,93.6,44.7,5
+EVS0030,2026-04-20,Delhi,Tech Park Station,Ultra Fast,CCS2,Private,Card,Failed,0.85,14,22,0.0,98.1,39.5,3
+EVS0031,2025-02-28,Chandigarh,Residential Cluster,Ultra Fast,CCS2,Private,Subscription,Completed,31.19,10,22,686.18,97.3,92.0,4
+EVS0032,2026-05-26,Kanpur,Tech Park Station,DC Fast,CCS2,Taxi/Ride-share,UPI,Completed,6.73,30,18,121.14,95.1,29.2,4
+EVS0033,2026-04-21,Delhi,Residential Cluster,DC Fast,CHAdeMO,Fleet,UPI,Cancelled,0.12,4,18,0.0,94.4,47.7,2
+EVS0034,2025-07-09,Jaipur,Business District,DC Fast,CCS2,Corporate,Card,Completed,28.96,31,18,521.28,95.1,25.7,5
+EVS0035,2026-07-17,Agra,Highway Stop,DC Fast,CCS2,Private,Subscription,Completed,18.94,10,18,340.92,94.4,45.0,4
+EVS0036,2026-07-21,Agra,Residential Cluster,DC Fast,CHAdeMO,Private,UPI,Completed,35.39,55,18,637.02,95.2,30.3,4
+EVS0037,2025-09-01,Gurugram,Tech Park Station,DC Fast,CCS2,Fleet,Card,Completed,27.56,37,18,446.47,93.5,45.0,3
+EVS0038,2026-05-20,Chandigarh,Business District,DC Fast,CCS2,Taxi/Ride-share,UPI,Completed,32.03,70,18,576.54,97.2,33.9,4
+EVS0039,2025-05-11,Lucknow,Residential Cluster,DC Fast,CHAdeMO,Fleet,Wallet,Completed,14.44,34,18,233.93,96.9,60.0,1
+EVS0040,2026-04-30,Kanpur,Mall Parking,DC Fast,CHAdeMO,Fleet,UPI,Completed,12.71,48,18,205.9,97.0,61.8,4
+EVS0041,2025-01-21,Lucknow,Highway Stop,AC,Type 2,Private,UPI,Completed,17.09,118,12,205.08,95.8,25.0,4
+EVS0042,2025-06-16,Delhi,Residential Cluster,AC,Type 2,Taxi/Ride-share,Card,Failed,1.68,19,12,0.0,95.5,76.1,5
+EVS0043,2025-10-01,Chandigarh,Business District,DC Fast,CHAdeMO,Private,Wallet,Completed,38.03,56,18,684.54,100.0,44.7,5
+EVS0044,2026-01-23,Gurugram,University Point,DC Fast,CHAdeMO,Private,UPI,Completed,20.07,63,18,361.26,96.2,35.2,2
+EVS0045,2026-08-24,Lucknow,Airport Express,DC Fast,CHAdeMO,Taxi/Ride-share,Wallet,Failed,0.63,6,18,0.0,99.8,68.9,3
+EVS0046,2025-11-12,Jaipur,Railway Station Hub,DC Fast,CCS2,Private,UPI,Completed,35.03,47,18,630.54,93.0,69.0,4
+EVS0047,2025-01-14,Agra,Airport Express,DC Fast,CHAdeMO,Private,Card,Failed,0.21,10,18,0.0,97.8,45.4,3
+EVS0048,2025-08-30,Delhi,Airport Express,DC Fast,CCS2,Taxi/Ride-share,UPI,Completed,48.67,15,18,876.06,93.8,44.5,1
+EVS0049,2025-12-12,Gurugram,City Centre Hub,AC,Type 2,Fleet,Card,Completed,27.36,110,12,295.49,94.3,48.5,5
+EVS0050,2026-07-19,Lucknow,Mall Parking,DC Fast,CCS2,Taxi/Ride-share,UPI,Cancelled,0.0,1,18,0.0,94.8,23.1,1
+EVS0051,2025-12-06,Kanpur,University Point,DC Fast,CCS2,Private,Wallet,Completed,21.21,30,18,381.78,94.6,53.9,5
+EVS0052,2025-04-02,Jaipur,Market Square,Ultra Fast,CCS2,Taxi/Ride-share,Wallet,Cancelled,1.37,1,22,0.0,94.6,24.5,3
+EVS0053,2026-01-02,Jaipur,Residential Cluster,DC Fast,CHAdeMO,Private,Card,Failed,1.72,3,18,0.0,99.7,42.9,5
+EVS0054,2026-03-31,Lucknow,Railway Station Hub,AC,Type 2,Private,Wallet,Cancelled,3.17,9,12,0.0,96.1,60.6,4
+EVS0055,2026-03-04,Agra,Highway Stop,AC,Type 2,Corporate,Wallet,Completed,23.94,134,12,287.28,96.7,67.3,5
+EVS0056,2026-05-24,Lucknow,University Point,AC,Type 2,Taxi/Ride-share,UPI,Cancelled,2.8,7,12,0.0,94.6,48.7,2
+EVS0057,2025-02-04,Delhi,Tech Park Station,DC Fast,CHAdeMO,Fleet,UPI,Completed,25.51,37,18,413.26,98.6,48.3,5
+EVS0058,2025-07-25,Lucknow,Market Square,AC,Type 2,Private,Subscription,Completed,22.01,105,12,264.12,97.1,57.0,5
+EVS0059,2025-03-22,Jaipur,City Centre Hub,DC Fast,CCS2,Taxi/Ride-share,UPI,Cancelled,1.36,14,18,0.0,95.1,49.2,4
+EVS0060,2026-07-16,Gurugram,City Centre Hub,DC Fast,CHAdeMO,Fleet,Wallet,Completed,21.87,24,18,354.29,91.2,56.4,4
+EVS0061,2026-01-23,Lucknow,University Point,AC,Type 2,Taxi/Ride-share,Subscription,Completed,17.0,114,12,204.0,96.6,58.7,5
+EVS0062,2025-01-02,Agra,Business District,AC,Type 2,Taxi/Ride-share,UPI,Cancelled,2.02,17,12,0.0,97.7,20.9,1
+EVS0063,2026-01-25,Chandigarh,Airport Express,AC,Type 2,Private,Card,Completed,11.08,100,12,132.96,93.1,26.6,4
+EVS0064,2026-07-20,Gurugram,Tech Park Station,AC,Type 2,Private,UPI,Completed,11.88,140,12,142.56,95.1,14.6,5
+EVS0065,2025-04-16,Kanpur,City Centre Hub,AC,Type 2,Taxi/Ride-share,Card,Completed,17.24,115,12,206.88,97.6,34.1,4
+EVS0066,2026-04-22,Noida,Railway Station Hub,DC Fast,CHAdeMO,Private,UPI,Completed,32.65,29,18,587.7,91.3,68.4,2
+EVS0067,2026-02-06,Lucknow,City Centre Hub,AC,Type 2,Private,UPI,Cancelled,3.38,15,12,0.0,94.1,54.6,4
+EVS0068,2026-07-10,Agra,Highway Stop,Ultra Fast,CCS2,Corporate,Card,Completed,45.62,10,22,1003.64,97.1,58.4,5
+EVS0069,2025-06-11,Gurugram,Residential Cluster,AC,Type 2,Fleet,Wallet,Completed,10.68,109,12,115.34,99.3,19.3,2
+EVS0070,2025-07-21,Agra,City Centre Hub,DC Fast,CHAdeMO,Taxi/Ride-share,Wallet,Completed,24.16,22,18,434.88,100.0,58.4,3
+EVS0071,2025-09-27,Kanpur,Highway Stop,DC Fast,CHAdeMO,Fleet,Card,Completed,27.85,38,18,451.17,100.0,35.5,3
+EVS0072,2025-09-28,Jaipur,University Point,DC Fast,CCS2,Fleet,UPI,Completed,33.59,32,18,544.16,96.4,55.7,5
+EVS0073,2026-04-01,Agra,University Point,DC Fast,CCS2,Private,Card,Cancelled,0.29,4,18,0.0,94.5,24.9,2
+EVS0074,2026-04-07,Gurugram,Market Square,DC Fast,CHAdeMO,Private,UPI,Completed,45.59,19,18,820.62,98.8,18.6,5
+EVS0075,2025-09-09,Agra,City Centre Hub,DC Fast,CCS2,Private,Subscription,Completed,36.07,51,18,649.26,94.4,63.6,4
+EVS0076,2025-10-23,Agra,Railway Station Hub,DC Fast,CHAdeMO,Private,Wallet,Completed,30.64,73,18,551.52,93.7,66.2,5
+EVS0077,2025-12-04,Agra,City Centre Hub,DC Fast,CHAdeMO,Taxi/Ride-share,Card,Completed,37.62,75,18,677.16,95.1,11.5,5
+EVS0078,2025-02-22,Delhi,Railway Station Hub,AC,Type 2,Private,Subscription,Completed,13.9,103,12,166.8,94.7,31.2,2
+EVS0079,2025-08-05,Delhi,Mall Parking,AC,Type 2,Fleet,UPI,Completed,21.32,110,12,230.26,97.2,9.5,4
+EVS0080,2025-07-07,Jaipur,Market Square,DC Fast,CCS2,Private,Wallet,Completed,50.88,48,18,915.84,94.2,53.8,5
+EVS0081,2026-01-15,Lucknow,Mall Parking,DC Fast,CCS2,Private,UPI,Completed,20.3,10,18,365.4,96.3,28.5,3
+EVS0082,2026-05-08,Agra,City Centre Hub,DC Fast,CCS2,Private,Subscription,Completed,31.12,40,18,560.16,100.0,31.4,3
+EVS0083,2025-02-10,Kanpur,Market Square,DC Fast,CHAdeMO,Private,UPI,Completed,35.51,63,18,639.18,96.4,65.5,5
+EVS0084,2025-06-06,Lucknow,Mall Parking,Ultra Fast,CCS2,Private,Wallet,Completed,62.0,16,22,1364.0,100.0,12.3,5
+EVS0085,2025-01-15,Kanpur,Airport Express,AC,Type 2,Private,Wallet,Completed,9.85,92,12,118.2,99.6,13.5,4
+EVS0086,2025-03-06,Lucknow,City Centre Hub,AC,Type 2,Private,UPI,Cancelled,0.62,9,12,0.0,97.8,56.8,3
+EVS0087,2026-06-05,Jaipur,Mall Parking,AC,Type 2,Taxi/Ride-share,UPI,Completed,19.92,100,12,239.04,94.9,7.1,4
+EVS0088,2025-12-10,Agra,Airport Express,DC Fast,CCS2,Private,Wallet,Failed,1.84,14,18,0.0,99.1,19.6,3
+EVS0089,2025-05-09,Agra,Airport Express,DC Fast,CHAdeMO,Private,UPI,Completed,33.61,21,18,604.98,95.3,51.2,5
+EVS0090,2026-04-17,Noida,University Point,AC,Type 2,Fleet,UPI,Completed,20.95,152,12,226.26,96.0,9.7,5
+EVS0091,2025-03-04,Kanpur,City Centre Hub,DC Fast,CCS2,Private,UPI,Failed,1.8,1,18,0.0,97.0,42.5,5
+EVS0092,2025-05-19,Lucknow,Airport Express,AC,Type 2,Taxi/Ride-share,UPI,Completed,25.82,102,12,309.84,96.0,53.8,1
+EVS0093,2026-05-14,Lucknow,University Point,DC Fast,CCS2,Fleet,Wallet,Failed,4.22,12,18,0.0,93.8,49.4,4
+EVS0094,2026-08-16,Chandigarh,Mall Parking,DC Fast,CHAdeMO,Private,Card,Completed,13.13,10,18,236.34,91.4,33.9,3
+EVS0095,2026-01-27,Chandigarh,Highway Stop,AC,Type 2,Fleet,UPI,Completed,27.7,134,12,299.16,98.9,27.6,4
+EVS0096,2026-02-23,Delhi,City Centre Hub,DC Fast,CHAdeMO,Private,UPI,Completed,56.93,42,18,1024.74,97.7,54.3,5
+EVS0097,2025-10-16,Noida,Market Square,AC,Type 2,Fleet,UPI,Completed,17.64,108,12,190.51,90.8,36.9,3
+EVS0098,2026-01-14,Gurugram,Railway Station Hub,AC,Type 2,Private,UPI,Completed,13.85,107,12,166.2,93.8,31.0,4
+EVS0099,2026-05-05,Chandigarh,Railway Station Hub,DC Fast,CHAdeMO,Taxi/Ride-share,UPI,Completed,34.44,26,18,619.92,96.5,59.8,4
+EVS0100,2025-08-19,Gurugram,Mall Parking,AC,Type 2,Private,UPI,Completed,7.48,117,12,89.76,97.3,32.6,5
+EVS0101,2025-02-10,Delhi,Business District,AC,Type 2,Fleet,UPI,Completed,12.54,56,12,135.43,91.4,10.3,5
+EVS0102,2025-01-28,Delhi,Business District,DC Fast,CHAdeMO,Fleet,Wallet,Completed,38.19,22,18,618.68,95.7,72.4,5
+EVS0103,2025-05-15,Delhi,Mall Parking,DC Fast,CHAdeMO,Private,UPI,Completed,39.41,53,18,709.38,97.6,72.1,4
+EVS0104,2025-07-20,Kanpur,Airport Express,DC Fast,CHAdeMO,Private,Card,Failed,1.84,31,18,0.0,94.9,79.2,3
+EVS0105,2025-02-02,Kanpur,City Centre Hub,AC,Type 2,Taxi/Ride-share,Card,Completed,17.13,109,12,205.56,96.8,29.4,4
+EVS0106,2025-02-17,Jaipur,Railway Station Hub,DC Fast,CHAdeMO,Taxi/Ride-share,Card,Cancelled,2.32,11,18,0.0,94.5,89.7,4
+EVS0107,2026-05-18,Jaipur,Railway Station Hub,AC,Type 2,Private,Card,Cancelled,2.89,1,12,0.0,98.7,59.4,4
+EVS0108,2026-02-11,Delhi,Airport Express,AC,Type 2,Taxi/Ride-share,Card,Completed,10.11,128,12,121.32,93.6,17.4,4
+EVS0109,2026-07-28,Noida,Railway Station Hub,Ultra Fast,CCS2,Corporate,Wallet,Completed,26.65,37,22,586.3,92.6,60.2,4
+EVS0110,2025-04-09,Lucknow,Market Square,AC,Type 2,Taxi/Ride-share,Card,Completed,20.33,102,12,243.96,96.1,88.5,3
+EVS0111,2026-07-01,Kanpur,City Centre Hub,DC Fast,CHAdeMO,Private,Card,Completed,36.11,19,18,649.98,91.7,68.2,3
+EVS0112,2026-09-05,Noida,Residential Cluster,DC Fast,CCS2,Taxi/Ride-share,Wallet,Completed,20.8,37,18,374.4,89.7,55.1,5
+EVS0113,2026-04-07,Agra,Railway Station Hub,AC,Type 2,Private,Card,Completed,18.5,109,12,222.0,99.3,31.1,4
+EVS0114,2025-01-05,Kanpur,Mall Parking,AC,Type 2,Corporate,UPI,Completed,20.73,121,12,248.76,93.0,63.6,5
+EVS0115,2025-08-06,Kanpur,Market Square,AC,Type 2,Fleet,UPI,Completed,27.64,113,12,298.51,92.0,11.7,4
+EVS0116,2026-05-18,Jaipur,Railway Station Hub,Ultra Fast,CCS2,Private,UPI,Completed,63.81,43,22,1403.82,93.6,23.2,3
+EVS0117,2026-02-02,Lucknow,Market Square,DC Fast,CHAdeMO,Taxi/Ride-share,Wallet,Completed,57.69,39,18,1038.42,93.4,15.8,5
+EVS0118,2026-01-28,Lucknow,University Point,AC,Type 2,Private,Card,Completed,15.35,137,12,184.2,95.6,41.9,5
+EVS0119,2025-07-26,Chandigarh,Residential Cluster,DC Fast,CHAdeMO,Corporate,Subscription,Completed,36.32,65,18,653.76,92.7,53.2,4
+EVS0120,2025-01-15,Gurugram,Tech Park Station,DC Fast,CCS2,Corporate,Card,Completed,40.03,10,18,720.54,97.5,46.8,4
+EVS0121,2026-07-08,Gurugram,Mall Parking,AC,Type 2,Taxi/Ride-share,UPI,Completed,20.37,120,12,244.44,97.9,17.2,4
+EVS0122,2026-04-06,Gurugram,Mall Parking,DC Fast,CHAdeMO,Private,UPI,Completed,33.49,39,18,602.82,92.2,13.3,5
+EVS0123,2026-07-29,Gurugram,City Centre Hub,DC Fast,CCS2,Taxi/Ride-share,Card,Completed,14.17,57,18,255.06,94.1,43.8,5
+EVS0124,2025-08-29,Agra,Market Square,Ultra Fast,CCS2,Private,Card,Completed,50.89,46,22,1119.58,94.4,43.1,5
+EVS0125,2026-07-18,Agra,Airport Express,AC,Type 2,Private,Subscription,Completed,8.31,124,12,99.72,95.5,29.4,4
+EVS0126,2025-04-06,Kanpur,Mall Parking,AC,Type 2,Taxi/Ride-share,UPI,Completed,16.52,117,12,198.24,99.2,52.3,4
+EVS0127,2026-04-30,Delhi,Market Square,AC,Type 2,Private,Card,Completed,16.59,124,12,199.08,99.4,11.8,4
+EVS0128,2026-02-11,Jaipur,Market Square,DC Fast,CCS2,Private,Card,Completed,30.18,23,18,543.24,100.0,79.6,4
+EVS0129,2025-08-19,Jaipur,Highway Stop,AC,Type 2,Corporate,Card,Completed,18.54,111,12,222.48,89.2,78.5,4
+EVS0130,2025-06-20,Gurugram,Highway Stop,DC Fast,CHAdeMO,Private,Card,Completed,31.07,10,18,559.26,93.2,43.1,4
+EVS0131,2026-06-25,Kanpur,Tech Park Station,DC Fast,CCS2,Private,Wallet,Cancelled,2.32,9,18,0.0,100.0,47.4,2
+EVS0132,2025-02-05,Chandigarh,University Point,DC Fast,CHAdeMO,Corporate,UPI,Cancelled,0.0,19,18,0.0,90.6,48.7,5
+EVS0133,2026-06-09,Noida,Tech Park Station,DC Fast,CCS2,Private,Wallet,Completed,39.13,36,18,704.34,100.0,52.5,5
+EVS0134,2025-06-09,Delhi,Railway Station Hub,Ultra Fast,CCS2,Taxi/Ride-share,Card,Completed,26.85,30,22,590.7,96.4,29.4,4
+EVS0135,2025-08-31,Kanpur,Airport Express,DC Fast,CCS2,Corporate,Wallet,Completed,33.38,58,18,600.84,96.6,17.8,4
+EVS0136,2025-03-27,Delhi,Railway Station Hub,DC Fast,CCS2,Corporate,Wallet,Completed,27.03,63,18,486.54,92.2,43.9,2
+EVS0137,2026-08-01,Delhi,Business District,AC,Type 2,Taxi/Ride-share,UPI,Completed,14.6,90,12,175.2,94.6,20.5,2
+EVS0138,2026-07-11,Delhi,Railway Station Hub,Ultra Fast,CCS2,Private,UPI,Completed,27.17,25,22,597.74,100.0,44.4,3
+EVS0139,2026-07-28,Kanpur,City Centre Hub,AC,Type 2,Private,Subscription,Completed,17.59,120,12,211.08,95.9,52.3,5
+EVS0140,2025-01-28,Gurugram,Railway Station Hub,AC,Type 2,Taxi/Ride-share,Card,Completed,17.43,132,12,209.16,94.7,44.7,5
+EVS0141,2026-09-12,Jaipur,Tech Park Station,AC,Type 2,Taxi/Ride-share,Subscription,Completed,16.36,79,12,196.32,97.2,25.9,4
+EVS0142,2026-07-10,Jaipur,Mall Parking,DC Fast,CHAdeMO,Fleet,UPI,Cancelled,1.35,1,18,0.0,95.4,61.6,4
+EVS0143,2025-12-06,Gurugram,Mall Parking,AC,Type 2,Private,Card,Cancelled,1.83,20,12,0.0,97.0,53.8,4
+EVS0144,2025-11-27,Delhi,Highway Stop,AC,Type 2,Private,Wallet,Completed,11.79,140,12,141.48,93.5,31.6,3
+EVS0145,2026-05-21,Noida,Airport Express,AC,Type 2,Private,Subscription,Completed,23.31,136,12,279.72,95.8,28.9,2
+EVS0146,2025-12-14,Lucknow,Airport Express,AC,Type 2,Taxi/Ride-share,UPI,Completed,19.19,97,12,230.28,94.1,73.5,5
+EVS0147,2026-04-18,Kanpur,City Centre Hub,DC Fast,CHAdeMO,Private,Wallet,Completed,40.75,30,18,733.5,90.6,36.0,5
+EVS0148,2025-08-19,Lucknow,Tech Park Station,DC Fast,CCS2,Corporate,Card,Completed,33.32,38,18,599.76,97.4,37.4,4
+EVS0149,2025-07-09,Chandigarh,Highway Stop,AC,Type 2,Taxi/Ride-share,UPI,Completed,25.09,128,12,301.08,92.3,4.5,4
+EVS0150,2025-08-13,Gurugram,Business District,DC Fast,CCS2,Private,Card,Completed,31.1,10,18,559.8,95.5,56.6,5
+EVS0151,2026-01-20,Noida,Airport Express,DC Fast,CHAdeMO,Fleet,Card,Failed,0.74,17,18,0.0,98.8,75.4,2
+EVS0152,2026-01-12,Kanpur,Mall Parking,AC,Type 2,Private,Subscription,Completed,19.76,87,12,237.12,91.5,39.4,5
+EVS0153,2025-10-10,Gurugram,Railway Station Hub,AC,Type 2,Fleet,Card,Completed,6.62,118,12,71.5,97.8,8.3,4
+EVS0154,2026-09-25,Delhi,Railway Station Hub,Ultra Fast,CCS2,Taxi/Ride-share,UPI,Completed,28.35,10,22,623.7,95.1,29.6,4
+EVS0155,2026-09-20,Jaipur,Highway Stop,DC Fast,CHAdeMO,Taxi/Ride-share,UPI,Completed,39.53,63,18,711.54,93.1,50.6,3
+EVS0156,2025-09-16,Lucknow,Tech Park Station,AC,Type 2,Taxi/Ride-share,UPI,Completed,13.27,114,12,159.24,100.0,53.1,5
+EVS0157,2025-12-25,Agra,Tech Park Station,DC Fast,CCS2,Private,UPI,Completed,31.17,39,18,561.06,96.0,42.3,5
+EVS0158,2026-04-01,Agra,University Point,AC,Type 2,Private,Wallet,Completed,18.26,128,12,219.12,94.3,18.7,2
+EVS0159,2026-02-15,Noida,Residential Cluster,DC Fast,CCS2,Taxi/Ride-share,UPI,Cancelled,0.69,1,18,0.0,93.7,61.0,4
+EVS0160,2025-11-14,Delhi,Airport Express,AC,Type 2,Private,Subscription,Completed,28.65,134,12,343.8,98.6,30.4,2
+EVS0161,2025-08-13,Chandigarh,Tech Park Station,AC,Type 2,Private,Subscription,Completed,11.05,117,12,132.6,94.2,12.3,5
+EVS0162,2025-08-22,Lucknow,Mall Parking,AC,Type 2,Private,Card,Completed,24.37,128,12,292.44,98.3,44.8,4
+EVS0163,2026-01-09,Delhi,Highway Stop,Ultra Fast,CCS2,Taxi/Ride-share,Subscription,Cancelled,2.05,10,22,0.0,96.0,22.5,5
+EVS0164,2026-08-31,Lucknow,Business District,DC Fast,CHAdeMO,Private,Wallet,Completed,51.35,45,18,924.3,99.3,24.3,4
+EVS0165,2026-04-17,Noida,University Point,AC,Type 2,Taxi/Ride-share,Card,Cancelled,0.88,18,12,0.0,92.9,22.7,3
+EVS0166,2025-08-21,Noida,Market Square,AC,Type 2,Corporate,UPI,Cancelled,1.62,14,12,0.0,93.3,25.3,2
+EVS0167,2025-04-23,Chandigarh,City Centre Hub,DC Fast,CHAdeMO,Private,UPI,Completed,34.28,50,18,617.04,95.2,37.5,3
+EVS0168,2026-05-12,Agra,Business District,AC,Type 2,Private,Card,Failed,0.33,1,12,0.0,95.4,32.3,3
+EVS0169,2026-03-18,Delhi,Market Square,AC,Type 2,Private,Wallet,Cancelled,3.22,13,12,0.0,94.9,15.0,4
+EVS0170,2026-07-18,Kanpur,Railway Station Hub,Ultra Fast,CCS2,Taxi/Ride-share,Card,Cancelled,2.43,1,22,0.0,100.0,18.5,1
+EVS0171,2025-09-25,Agra,City Centre Hub,AC,Type 2,Private,Wallet,Completed,24.72,105,12,296.64,100.0,55.6,4
+EVS0172,2026-05-25,Delhi,Airport Express,DC Fast,CHAdeMO,Private,Card,Completed,22.97,40,18,413.46,96.9,25.5,4
+EVS0173,2026-01-21,Agra,Mall Parking,Ultra Fast,CCS2,Private,UPI,Completed,29.6,26,22,651.2,97.3,62.3,4
+EVS0174,2026-01-22,Kanpur,City Centre Hub,AC,Type 2,Taxi/Ride-share,Subscription,Completed,17.14,134,12,205.68,95.3,26.6,5
+EVS0175,2025-04-23,Jaipur,Residential Cluster,AC,Type 2,Private,Card,Completed,27.53,141,12,330.36,92.9,34.2,4
+EVS0176,2026-09-05,Jaipur,Market Square,AC,Type 2,Taxi/Ride-share,UPI,Completed,3.73,98,12,44.76,95.5,27.6,5
+EVS0177,2026-09-17,Chandigarh,Airport Express,DC Fast,CHAdeMO,Corporate,Card,Cancelled,0.0,2,18,0.0,98.3,9.6,3
+EVS0178,2025-03-22,Jaipur,Residential Cluster,Ultra Fast,CCS2,Private,UPI,Cancelled,0.72,15,22,0.0,99.9,23.6,4
+EVS0179,2025-04-23,Jaipur,Railway Station Hub,DC Fast,CHAdeMO,Taxi/Ride-share,Card,Completed,26.18,33,18,471.24,99.0,50.7,4
+EVS0180,2025-01-02,Gurugram,Residential Cluster,AC,Type 2,Private,Card,Cancelled,1.72,1,12,0.0,91.5,10.1,4
+EVS0181,2025-08-08,Lucknow,University Point,DC Fast,CCS2,Taxi/Ride-share,UPI,Cancelled,0.49,7,18,0.0,95.1,35.6,4
+EVS0182,2026-07-20,Gurugram,University Point,Ultra Fast,CCS2,Taxi/Ride-share,Subscription,Completed,41.81,28,22,919.82,91.6,50.2,4
+EVS0183,2025-08-13,Gurugram,Highway Stop,DC Fast,CHAdeMO,Taxi/Ride-share,Card,Completed,48.81,58,18,878.58,99.5,71.5,4
+EVS0184,2026-01-20,Chandigarh,Business District,Ultra Fast,CCS2,Private,UPI,Completed,32.88,22,22,723.36,94.8,38.1,4
+EVS0185,2026-02-07,Gurugram,Business District,DC Fast,CCS2,Private,UPI,Completed,28.31,32,18,509.58,95.9,21.1,5
+EVS0186,2026-09-30,Jaipur,Airport Express,DC Fast,CHAdeMO,Private,Subscription,Completed,35.05,10,18,630.9,97.4,58.6,5
+EVS0187,2025-05-10,Kanpur,Railway Station Hub,DC Fast,CCS2,Private,UPI,Completed,41.86,72,18,753.48,100.0,49.5,4
+EVS0188,2025-02-22,Chandigarh,Tech Park Station,AC,Type 2,Private,UPI,Completed,16.3,109,12,195.6,96.8,25.1,2
+EVS0189,2026-02-20,Chandigarh,University Point,AC,Type 2,Private,UPI,Completed,18.99,133,12,227.88,95.3,23.6,5
+EVS0190,2025-09-04,Noida,Airport Express,DC Fast,CHAdeMO,Private,UPI,Cancelled,1.11,19,18,0.0,92.3,55.2,5
+EVS0191,2026-03-15,Chandigarh,Tech Park Station,AC,Type 2,Private,Wallet,Completed,21.08,157,12,252.96,100.0,52.5,3
+EVS0192,2025-07-22,Noida,Business District,Ultra Fast,CCS2,Taxi/Ride-share,Wallet,Failed,1.11,1,22,0.0,95.5,20.8,4
+EVS0193,2025-07-03,Chandigarh,Highway Stop,Ultra Fast,CCS2,Fleet,UPI,Cancelled,0.0,12,22,0.0,100.0,73.0,5
+EVS0194,2025-05-03,Lucknow,Residential Cluster,DC Fast,CHAdeMO,Private,Card,Failed,2.73,6,18,0.0,99.3,19.8,5
+EVS0195,2026-02-05,Jaipur,University Point,AC,Type 2,Private,UPI,Failed,1.22,17,12,0.0,94.6,76.8,3
+EVS0196,2025-10-21,Chandigarh,Airport Express,AC,Type 2,Private,Subscription,Cancelled,0.34,7,12,0.0,91.8,64.9,4
+EVS0197,2025-10-07,Jaipur,City Centre Hub,AC,Type 2,Corporate,Subscription,Completed,10.64,136,12,127.68,96.8,72.3,5
+EVS0198,2026-09-02,Jaipur,Tech Park Station,DC Fast,CCS2,Private,UPI,Completed,49.27,13,18,886.86,94.2,12.5,5
+EVS0199,2025-07-17,Agra,Residential Cluster,DC Fast,CCS2,Taxi/Ride-share,Wallet,Completed,30.41,67,18,547.38,96.1,57.5,5
+EVS0200,2026-05-26,Chandigarh,University Point,Ultra Fast,CCS2,Corporate,Wallet,Completed,51.28,18,22,1128.16,99.1,66.6,5
+EVS0201,2025-05-24,Delhi,Business District,DC Fast,CHAdeMO,Taxi/Ride-share,UPI,Completed,14.68,62,18,264.24,91.0,67.2,3
+EVS0202,2026-09-01,Agra,Railway Station Hub,Ultra Fast,CCS2,Taxi/Ride-share,UPI,Completed,50.68,10,22,1114.96,96.8,13.6,5
+EVS0203,2025-07-20,Delhi,Tech Park Station,Ultra Fast,CCS2,Taxi/Ride-share,UPI,Failed,2.93,1,22,0.0,98.3,75.2,3
+EVS0204,2025-05-04,Jaipur,Business District,AC,Type 2,Corporate,Wallet,Cancelled,1.24,9,12,0.0,98.4,76.7,5
+EVS0205,2025-07-06,Jaipur,University Point,Ultra Fast,CCS2,Fleet,Subscription,Cancelled,3.44,9,22,0.0,91.9,48.1,4
+EVS0206,2025-11-22,Agra,Tech Park Station,AC,Type 2,Fleet,Wallet,Completed,16.33,90,12,176.36,97.3,63.9,5
+EVS0207,2026-04-09,Agra,Residential Cluster,AC,Type 2,Fleet,Wallet,Completed,13.97,100,12,150.88,99.6,67.9,3
+EVS0208,2025-12-15,Delhi,University Point,DC Fast,CHAdeMO,Fleet,Card,Completed,23.43,42,18,379.57,97.0,3.9,4
+EVS0209,2026-02-07,Noida,Market Square,AC,Type 2,Fleet,Wallet,Completed,2.66,87,12,28.73,95.7,63.2,2
+EVS0210,2025-12-12,Delhi,Airport Express,DC Fast,CHAdeMO,Private,Wallet,Completed,30.76,44,18,553.68,99.4,47.1,4
+EVS0211,2026-05-26,Agra,Residential Cluster,DC Fast,CHAdeMO,Private,UPI,Completed,29.39,41,18,529.02,93.9,35.2,5
+EVS0212,2025-05-27,Kanpur,Tech Park Station,DC Fast,CHAdeMO,Private,Card,Failed,1.01,11,18,0.0,91.4,61.4,5
+EVS0213,2025-05-28,Agra,Railway Station Hub,AC,Type 2,Private,Wallet,Completed,20.74,122,12,248.88,95.4,31.3,4
+EVS0214,2026-05-04,Kanpur,Business District,DC Fast,CCS2,Private,UPI,Completed,24.28,58,18,437.04,97.6,67.6,2
+EVS0215,2026-07-05,Lucknow,City Centre Hub,DC Fast,CCS2,Private,Wallet,Completed,33.76,64,18,607.68,99.1,24.2,5
+EVS0216,2025-12-04,Agra,Business District,DC Fast,CHAdeMO,Fleet,UPI,Completed,48.05,16,18,778.41,97.6,38.1,5
+EVS0217,2026-04-18,Lucknow,Tech Park Station,DC Fast,CCS2,Private,Card,Completed,22.38,56,18,402.84,98.5,42.6,5
+EVS0218,2025-05-31,Noida,Business District,AC,Type 2,Taxi/Ride-share,Wallet,Failed,0.0,23,12,0.0,99.1,12.1,5
+EVS0219,2026-02-19,Delhi,Airport Express,DC Fast,CCS2,Private,UPI,Completed,28.15,52,18,506.7,95.0,46.1,5
+EVS0220,2025-10-25,Kanpur,University Point,AC,Type 2,Private,UPI,Completed,17.27,89,12,207.24,95.6,49.2,4
+EVS0221,2026-09-03,Delhi,City Centre Hub,DC Fast,CCS2,Taxi/Ride-share,UPI,Completed,43.82,91,18,788.76,99.9,57.4,5
+EVS0222,2025-09-20,Lucknow,Mall Parking,DC Fast,CHAdeMO,Fleet,Wallet,Completed,26.23,36,18,424.93,92.4,38.9,4
+EVS0223,2025-05-24,Kanpur,Tech Park Station,DC Fast,CCS2,Private,UPI,Completed,2.33,66,18,41.94,97.3,52.0,5
+EVS0224,2025-12-12,Delhi,Highway Stop,DC Fast,CHAdeMO,Taxi/Ride-share,Subscription,Completed,42.21,10,18,759.78,93.8,25.2,5
+EVS0225,2026-09-16,Agra,Mall Parking,Ultra Fast,CCS2,Taxi/Ride-share,UPI,Completed,12.48,10,22,274.56,99.3,19.1,2
+EVS0226,2026-07-26,Jaipur,Business District,DC Fast,CCS2,Private,Subscription,Completed,39.23,55,18,706.14,95.9,30.9,4
+EVS0227,2025-01-02,Lucknow,Tech Park Station,Ultra Fast,CCS2,Private,Subscription,Completed,30.46,35,22,670.12,96.0,36.6,1
+EVS0228,2025-10-31,Delhi,Market Square,DC Fast,CHAdeMO,Corporate,Card,Completed,33.78,35,18,608.04,100.0,51.1,2
+EVS0229,2025-09-11,Lucknow,Highway Stop,AC,Type 2,Fleet,Card,Cancelled,2.66,2,12,0.0,92.8,26.3,4
+EVS0230,2026-03-29,Gurugram,City Centre Hub,AC,Type 2,Fleet,Card,Completed,25.23,101,12,272.48,96.6,41.1,5
+EVS0231,2025-02-06,Lucknow,Railway Station Hub,DC Fast,CCS2,Taxi/Ride-share,Card,Completed,51.95,23,18,935.1,95.5,8.0,2
+EVS0232,2025-06-09,Kanpur,Market Square,AC,Type 2,Private,UPI,Completed,15.79,116,12,189.48,97.6,35.1,4
+EVS0233,2025-01-09,Gurugram,Mall Parking,DC Fast,CHAdeMO,Private,UPI,Completed,32.59,50,18,586.62,100.0,83.9,5
+EVS0234,2025-08-21,Chandigarh,University Point,AC,Type 2,Private,UPI,Completed,9.9,114,12,118.8,94.2,17.6,5
+EVS0235,2025-04-09,Kanpur,Airport Express,DC Fast,CHAdeMO,Taxi/Ride-share,UPI,Completed,33.55,32,18,603.9,92.4,67.0,4
+EVS0236,2025-07-27,Jaipur,Railway Station Hub,DC Fast,CCS2,Fleet,UPI,Completed,36.53,17,18,591.79,93.6,38.5,5
+EVS0237,2025-05-11,Gurugram,Market Square,DC Fast,CHAdeMO,Taxi/Ride-share,Card,Cancelled,1.11,5,18,0.0,95.3,46.6,4
+EVS0238,2026-02-08,Chandigarh,University Point,DC Fast,CHAdeMO,Private,Subscription,Completed,28.38,68,18,510.84,96.2,19.2,3
+EVS0239,2025-06-01,Agra,University Point,DC Fast,CHAdeMO,Private,UPI,Failed,3.26,22,18,0.0,96.3,43.2,3
+EVS0240,2025-02-23,Lucknow,Tech Park Station,DC Fast,CHAdeMO,Fleet,Card,Completed,26.82,58,18,434.48,100.0,36.1,3
+EVS0241,2025-04-30,Delhi,Market Square,Ultra Fast,CCS2,Taxi/Ride-share,UPI,Failed,1.63,12,22,0.0,100.0,36.3,4
+EVS0242,2026-09-20,Noida,City Centre Hub,AC,Type 2,Fleet,Wallet,Cancelled,1.41,26,12,0.0,99.9,30.4,5
+EVS0243,2026-08-10,Lucknow,Business District,Ultra Fast,CCS2,Private,Subscription,Completed,66.51,40,22,1463.22,100.0,18.1,5
+EVS0244,2026-09-17,Chandigarh,Highway Stop,DC Fast,CHAdeMO,Taxi/Ride-share,Wallet,Cancelled,1.3,12,18,0.0,98.5,40.8,4
+EVS0245,2026-02-24,Lucknow,Highway Stop,AC,Type 2,Private,Subscription,Completed,21.34,105,12,256.08,99.3,48.1,4
+EVS0246,2026-02-26,Jaipur,Mall Parking,AC,Type 2,Corporate,UPI,Failed,2.63,4,12,0.0,98.4,29.4,3
+EVS0247,2025-04-14,Agra,Mall Parking,DC Fast,CHAdeMO,Private,Wallet,Completed,36.39,10,18,655.02,97.9,26.1,5
+EVS0248,2025-09-11,Noida,Highway Stop,AC,Type 2,Taxi/Ride-share,Wallet,Completed,14.53,152,12,174.36,97.2,25.9,5
+EVS0249,2025-08-15,Gurugram,City Centre Hub,AC,Type 2,Private,UPI,Completed,24.53,142,12,294.36,94.8,60.5,3
+EVS0250,2025-04-22,Gurugram,Airport Express,DC Fast,CHAdeMO,Corporate,Subscription,Failed,0.7,12,18,0.0,92.3,47.1,2
+EVS0251,2026-05-25,Gurugram,Residential Cluster,DC Fast,CHAdeMO,Fleet,UPI,Completed,46.36,53,18,751.03,95.6,51.8,4
+EVS0252,2026-04-18,Chandigarh,Business District,DC Fast,CCS2,Private,Card,Completed,37.7,71,18,678.6,97.7,64.4,4
+EVS0253,2025-04-09,Kanpur,Airport Express,Ultra Fast,CCS2,Private,UPI,Completed,28.61,23,22,629.42,96.2,25.0,4
+EVS0254,2025-06-02,Kanpur,Tech Park Station,DC Fast,CCS2,Private,UPI,Cancelled,0.0,3,18,0.0,92.8,42.7,4
+EVS0255,2025-12-04,Delhi,Residential Cluster,DC Fast,CHAdeMO,Private,Card,Completed,44.03,25,18,792.54,95.5,62.9,4
+EVS0256,2025-06-12,Noida,Residential Cluster,AC,Type 2,Corporate,Card,Completed,22.63,144,12,271.56,95.3,15.6,3
+EVS0257,2025-06-10,Gurugram,Market Square,DC Fast,CHAdeMO,Private,UPI,Completed,30.01,51,18,540.18,95.8,31.8,4
+EVS0258,2026-08-03,Kanpur,City Centre Hub,AC,Type 2,Taxi/Ride-share,UPI,Completed,22.68,93,12,272.16,97.5,60.0,4
+EVS0259,2026-02-02,Chandigarh,City Centre Hub,Ultra Fast,CCS2,Fleet,Wallet,Completed,35.29,10,22,698.74,98.1,34.1,5
+EVS0260,2025-10-04,Delhi,Residential Cluster,DC Fast,CCS2,Taxi/Ride-share,UPI,Failed,0.86,17,18,0.0,94.5,27.2,5
+EVS0261,2026-05-19,Agra,Market Square,DC Fast,CCS2,Private,UPI,Completed,25.33,41,18,455.94,98.9,35.9,5
+EVS0262,2026-01-27,Delhi,Business District,AC,Type 2,Private,Subscription,Completed,11.43,137,12,137.16,99.4,34.2,5
+EVS0263,2025-05-15,Kanpur,Residential Cluster,Ultra Fast,CCS2,Taxi/Ride-share,Wallet,Completed,36.41,54,22,801.02,97.0,28.9,4
+EVS0264,2025-07-14,Jaipur,Railway Station Hub,DC Fast,CCS2,Corporate,UPI,Completed,32.68,16,18,588.24,98.0,5.6,5
+EVS0265,2026-02-05,Chandigarh,Mall Parking,AC,Type 2,Private,Wallet,Completed,16.92,95,12,203.04,99.0,18.9,5
+EVS0266,2025-02-02,Jaipur,Mall Parking,AC,Type 2,Private,Wallet,Completed,21.71,110,12,260.52,92.7,37.6,3
+EVS0267,2026-04-05,Gurugram,Airport Express,DC Fast,CHAdeMO,Fleet,Wallet,Completed,33.83,35,18,548.05,99.2,28.4,4
+EVS0268,2026-04-15,Jaipur,Tech Park Station,AC,Type 2,Corporate,Card,Failed,0.83,4,12,0.0,93.6,59.5,5
+EVS0269,2026-01-10,Gurugram,Mall Parking,Ultra Fast,CCS2,Private,UPI,Completed,58.17,23,22,1279.74,93.9,38.4,4
+EVS0270,2025-01-22,Gurugram,University Point,DC Fast,CCS2,Private,UPI,Failed,1.12,10,18,0.0,96.6,61.6,3
+EVS0271,2025-02-07,Kanpur,Airport Express,AC,Type 2,Taxi/Ride-share,UPI,Cancelled,0.69,9,12,0.0,89.6,25.1,4
+EVS0272,2025-08-18,Jaipur,Mall Parking,DC Fast,CHAdeMO,Private,Card,Completed,34.3,23,18,617.4,96.5,48.9,5
+EVS0273,2025-12-31,Gurugram,Tech Park Station,AC,Type 2,Private,UPI,Cancelled,0.43,23,12,0.0,98.9,18.7,4
+EVS0274,2026-07-17,Noida,City Centre Hub,DC Fast,CHAdeMO,Fleet,Card,Completed,27.94,32,18,452.63,91.1,40.6,5
+EVS0275,2026-03-14,Agra,City Centre Hub,AC,Type 2,Corporate,UPI,Completed,9.53,130,12,114.36,99.3,65.0,4
+EVS0276,2025-10-10,Delhi,Business District,AC,Type 2,Private,UPI,Completed,11.35,114,12,136.2,93.9,23.3,5
+EVS0277,2025-01-27,Delhi,Residential Cluster,DC Fast,CCS2,Fleet,Wallet,Completed,12.87,56,18,208.49,96.6,60.1,4
+EVS0278,2025-08-14,Kanpur,Railway Station Hub,DC Fast,CHAdeMO,Fleet,UPI,Completed,45.18,50,18,731.92,94.3,50.9,4
+EVS0279,2025-10-04,Jaipur,City Centre Hub,DC Fast,CHAdeMO,Fleet,UPI,Completed,14.81,57,18,239.92,97.7,20.3,1
+EVS0280,2026-09-01,Jaipur,Market Square,DC Fast,CHAdeMO,Fleet,Wallet,Completed,22.73,20,18,368.23,99.1,52.1,3
+EVS0281,2025-10-11,Gurugram,Mall Parking,DC Fast,CHAdeMO,Fleet,UPI,Completed,27.71,34,18,448.9,97.9,41.8,4
+EVS0282,2026-04-26,Chandigarh,Market Square,AC,Type 2,Private,Wallet,Failed,0.89,22,12,0.0,96.0,68.3,4
+EVS0283,2026-03-29,Lucknow,Tech Park Station,AC,Type 2,Fleet,Wallet,Completed,30.67,90,12,331.24,94.6,33.4,4
+EVS0284,2026-05-31,Gurugram,City Centre Hub,Ultra Fast,CCS2,Fleet,UPI,Completed,34.15,29,22,676.17,95.8,79.0,2
+EVS0285,2026-07-01,Agra,Railway Station Hub,DC Fast,CCS2,Fleet,Wallet,Completed,27.65,49,18,447.93,98.0,74.3,5
+EVS0286,2025-07-11,Noida,Tech Park Station,DC Fast,CCS2,Taxi/Ride-share,Card,Completed,42.26,55,18,760.68,98.1,34.4,5
+EVS0287,2025-02-18,Delhi,University Point,AC,Type 2,Private,UPI,Completed,21.84,144,12,262.08,97.7,83.5,3
+EVS0288,2026-05-27,Gurugram,University Point,AC,Type 2,Taxi/Ride-share,UPI,Failed,0.0,23,12,0.0,92.2,24.9,4
+EVS0289,2025-01-17,Lucknow,Market Square,DC Fast,CHAdeMO,Taxi/Ride-share,UPI,Completed,27.37,56,18,492.66,95.9,9.3,5
+EVS0290,2025-06-21,Lucknow,Residential Cluster,Ultra Fast,CCS2,Private,Subscription,Completed,28.78,10,22,633.16,94.1,64.0,4
+EVS0291,2025-08-08,Gurugram,Airport Express,DC Fast,CHAdeMO,Fleet,UPI,Cancelled,2.29,1,18,0.0,98.0,17.2,4
+EVS0292,2025-06-07,Kanpur,Residential Cluster,DC Fast,CCS2,Private,Card,Cancelled,2.69,22,18,0.0,93.7,42.6,4
+EVS0293,2026-04-22,Delhi,Business District,DC Fast,CHAdeMO,Private,Card,Completed,33.99,44,18,611.82,97.4,40.7,3
+EVS0294,2025-02-15,Kanpur,Residential Cluster,AC,Type 2,Private,Card,Completed,12.75,127,12,153.0,95.2,40.4,4
+EVS0295,2026-01-08,Noida,Business District,DC Fast,CCS2,Private,UPI,Completed,35.89,25,18,646.02,90.4,44.7,3
+EVS0296,2026-06-02,Lucknow,Business District,AC,Type 2,Private,UPI,Completed,15.53,112,12,186.36,98.8,24.8,4
+EVS0297,2025-04-09,Lucknow,Railway Station Hub,AC,Type 2,Taxi/Ride-share,Wallet,Completed,15.53,90,12,186.36,95.9,37.0,2
+EVS0298,2025-02-06,Agra,City Centre Hub,Ultra Fast,CCS2,Private,UPI,Completed,56.01,22,22,1232.22,99.8,31.5,5
+EVS0299,2025-10-07,Noida,Railway Station Hub,DC Fast,CHAdeMO,Taxi/Ride-share,UPI,Failed,1.52,7,18,0.0,91.0,41.3,4
+EVS0300,2025-12-15,Lucknow,Business District,DC Fast,CHAdeMO,Fleet,UPI,Cancelled,2.07,13,18,0.0,95.1,42.7,3
+EVS0301,2026-05-12,Noida,Tech Park Station,AC,Type 2,Taxi/Ride-share,UPI,Completed,25.64,123,12,307.68,95.4,56.9,4
+EVS0302,2025-10-29,Delhi,University Point,AC,Type 2,Fleet,Wallet,Completed,16.72,101,12,180.58,96.8,37.0,3
+EVS0303,2025-06-30,Jaipur,Business District,AC,Type 2,Private,UPI,Completed,23.46,109,12,281.52,92.0,31.3,4
+EVS0304,2026-08-30,Lucknow,Railway Station Hub,AC,Type 2,Taxi/Ride-share,UPI,Completed,16.92,111,12,203.04,97.6,41.1,4
+EVS0305,2025-04-09,Agra,Tech Park Station,DC Fast,CCS2,Private,UPI,Completed,27.5,39,18,495.0,100.0,19.8,3
+EVS0306,2025-04-26,Delhi,Railway Station Hub,AC,Type 2,Fleet,Wallet,Cancelled,3.81,3,12,0.0,97.4,40.2,3
+EVS0307,2025-07-10,Gurugram,Residential Cluster,DC Fast,CCS2,Corporate,Card,Completed,22.88,66,18,411.84,96.3,5.3,4
+EVS0308,2025-09-10,Noida,Mall Parking,AC,Type 2,Private,UPI,Completed,15.64,106,12,187.68,91.9,50.3,1
+EVS0309,2025-06-10,Gurugram,Market Square,AC,Type 2,Private,Wallet,Cancelled,2.74,1,12,0.0,93.7,49.1,5
+EVS0310,2025-09-13,Kanpur,Airport Express,AC,Type 2,Taxi/Ride-share,Card,Completed,23.18,115,12,278.16,95.8,32.9,4
+EVS0311,2025-11-19,Delhi,Railway Station Hub,DC Fast,CCS2,Taxi/Ride-share,Wallet,Completed,37.21,50,18,669.78,94.4,4.7,4
+EVS0312,2025-05-08,Gurugram,Airport Express,DC Fast,CCS2,Taxi/Ride-share,Wallet,Completed,24.97,60,18,449.46,99.1,38.1,4
+EVS0313,2025-01-18,Chandigarh,Highway Stop,DC Fast,CHAdeMO,Private,UPI,Completed,25.84,49,18,465.12,97.6,68.1,4
+EVS0314,2026-07-20,Chandigarh,Railway Station Hub,DC Fast,CCS2,Taxi/Ride-share,UPI,Failed,2.99,23,18,0.0,100.0,20.9,5
+EVS0315,2026-07-24,Lucknow,Mall Parking,DC Fast,CHAdeMO,Private,UPI,Completed,29.01,50,18,522.18,93.1,3.0,1
+EVS0316,2025-11-19,Noida,Airport Express,AC,Type 2,Taxi/Ride-share,UPI,Completed,15.74,160,12,188.88,96.1,54.7,2
+EVS0317,2026-09-18,Jaipur,Business District,AC,Type 2,Corporate,Subscription,Completed,22.91,116,12,274.92,91.8,84.7,3
+EVS0318,2025-10-15,Delhi,Railway Station Hub,DC Fast,CCS2,Taxi/Ride-share,UPI,Failed,1.88,15,18,0.0,89.3,34.4,3
+EVS0319,2026-10-01,Lucknow,City Centre Hub,DC Fast,CCS2,Taxi/Ride-share,UPI,Completed,36.89,37,18,664.02,98.2,53.2,3
+EVS0320,2025-06-04,Agra,Market Square,AC,Type 2,Private,Wallet,Completed,15.52,112,12,186.24,97.5,39.0,4
+EVS0321,2026-05-05,Kanpur,Mall Parking,Ultra Fast,CCS2,Taxi/Ride-share,Card,Completed,27.05,39,22,595.1,93.4,34.2,4
+EVS0322,2026-01-21,Noida,Airport Express,DC Fast,CHAdeMO,Taxi/Ride-share,UPI,Completed,23.02,22,18,414.36,96.3,47.2,5
+EVS0323,2025-04-14,Delhi,Mall Parking,AC,Type 2,Private,UPI,Completed,17.91,112,12,214.92,94.1,18.0,3
+EVS0324,2026-01-28,Chandigarh,Tech Park Station,DC Fast,CCS2,Taxi/Ride-share,UPI,Completed,34.8,31,18,626.4,94.5,28.2,4
+EVS0325,2025-09-03,Delhi,Market Square,DC Fast,CCS2,Private,Wallet,Completed,27.6,54,18,496.8,95.0,26.0,5
+EVS0326,2025-06-25,Jaipur,Business District,AC,Type 2,Taxi/Ride-share,UPI,Completed,21.98,125,12,263.76,93.3,79.2,5
+EVS0327,2025-02-08,Chandigarh,Railway Station Hub,AC,Type 2,Taxi/Ride-share,UPI,Cancelled,1.54,13,12,0.0,93.9,23.7,4
+EVS0328,2026-04-22,Jaipur,Railway Station Hub,AC,Type 2,Taxi/Ride-share,Card,Completed,19.45,103,12,233.4,93.9,47.2,4
+EVS0329,2026-06-22,Agra,Railway Station Hub,DC Fast,CCS2,Private,UPI,Completed,48.51,65,18,873.18,97.3,73.3,5
+EVS0330,2026-02-12,Kanpur,Market Square,DC Fast,CCS2,Fleet,Card,Completed,40.9,34,18,662.58,87.7,26.1,4
+EVS0331,2026-06-09,Agra,City Centre Hub,DC Fast,CHAdeMO,Fleet,Card,Failed,2.15,19,18,0.0,95.3,76.8,3
+EVS0332,2026-05-21,Lucknow,Highway Stop,DC Fast,CHAdeMO,Corporate,UPI,Completed,18.3,72,18,329.4,92.7,63.2,5
+EVS0333,2025-02-05,Lucknow,University Point,AC,Type 2,Private,Subscription,Cancelled,0.0,17,12,0.0,92.8,32.9,4
+EVS0334,2025-01-20,Agra,Residential Cluster,DC Fast,CCS2,Private,Card,Cancelled,3.24,11,18,0.0,94.4,12.8,3
+EVS0335,2025-11-17,Kanpur,Airport Express,AC,Type 2,Taxi/Ride-share,UPI,Completed,17.05,127,12,204.6,96.0,33.6,4
+EVS0336,2026-05-27,Agra,City Centre Hub,DC Fast,CCS2,Private,Card,Failed,3.72,9,18,0.0,95.4,25.2,4
+EVS0337,2026-02-04,Kanpur,Business District,DC Fast,CCS2,Fleet,Wallet,Completed,23.25,34,18,376.65,92.8,40.1,5
+EVS0338,2026-04-16,Kanpur,Airport Express,AC,Type 2,Fleet,Card,Completed,8.22,131,12,88.78,98.2,23.7,3
+EVS0339,2025-05-23,Gurugram,Railway Station Hub,DC Fast,CHAdeMO,Taxi/Ride-share,UPI,Cancelled,0.88,10,18,0.0,93.3,47.4,5
+EVS0340,2025-04-02,Chandigarh,Mall Parking,AC,Type 2,Fleet,Subscription,Completed,23.73,108,12,256.28,93.8,44.2,4
+EVS0341,2025-12-20,Noida,Business District,AC,Type 2,Fleet,UPI,Completed,22.78,96,12,246.02,96.9,58.1,4
+EVS0342,2025-02-20,Kanpur,Airport Express,AC,Type 2,Private,UPI,Completed,24.04,121,12,288.48,97.0,33.5,3
+EVS0343,2026-07-29,Jaipur,Railway Station Hub,AC,Type 2,Private,UPI,Completed,17.44,117,12,209.28,94.2,37.8,5
+EVS0344,2025-07-09,Kanpur,Airport Express,Ultra Fast,CCS2,Private,UPI,Cancelled,0.0,12,22,0.0,87.2,22.7,5
+EVS0345,2025-05-05,Kanpur,Mall Parking,DC Fast,CHAdeMO,Private,Wallet,Completed,30.41,19,18,547.38,93.3,59.7,4
+EVS0346,2025-05-30,Kanpur,Railway Station Hub,AC,Type 2,Fleet,UPI,Completed,13.77,112,12,148.72,96.5,64.1,3
+EVS0347,2025-11-10,Gurugram,Highway Stop,DC Fast,CHAdeMO,Taxi/Ride-share,UPI,Completed,25.2,10,18,453.6,98.1,13.0,4
+EVS0348,2026-07-24,Chandigarh,City Centre Hub,AC,Type 2,Fleet,Wallet,Completed,24.78,112,12,267.62,95.8,80.2,5
+EVS0349,2025-12-08,Gurugram,Tech Park Station,Ultra Fast,CCS2,Taxi/Ride-share,UPI,Cancelled,0.0,29,22,0.0,94.6,16.5,1
+EVS0350,2025-11-01,Lucknow,Residential Cluster,DC Fast,CHAdeMO,Corporate,UPI,Completed,45.9,35,18,826.2,100.0,66.0,4
+EVS0351,2025-02-23,Gurugram,Market Square,DC Fast,CCS2,Taxi/Ride-share,UPI,Failed,0.49,15,18,0.0,94.9,49.6,4
+EVS0352,2026-03-20,Jaipur,Residential Cluster,AC,Type 2,Taxi/Ride-share,UPI,Completed,19.27,124,12,231.24,97.8,48.5,4
+EVS0353,2026-09-05,Jaipur,Business District,AC,Type 2,Fleet,UPI,Completed,12.71,134,12,137.27,92.0,37.4,4
+EVS0354,2025-09-21,Gurugram,Residential Cluster,DC Fast,CCS2,Private,Card,Completed,26.7,54,18,480.6,92.7,71.3,3
+EVS0355,2025-02-22,Chandigarh,Railway Station Hub,DC Fast,CCS2,Private,UPI,Completed,23.07,89,18,415.26,97.9,27.1,5
+EVS0356,2026-07-26,Agra,Highway Stop,AC,Type 2,Private,UPI,Completed,22.38,166,12,268.56,99.1,28.2,4
+EVS0357,2026-09-12,Noida,Tech Park Station,AC,Type 2,Corporate,Wallet,Completed,23.21,104,12,278.52,94.8,22.1,4
+EVS0358,2025-01-05,Chandigarh,City Centre Hub,Ultra Fast,CCS2,Taxi/Ride-share,Card,Completed,58.06,43,22,1277.32,90.5,48.4,4
+EVS0359,2025-04-13,Gurugram,City Centre Hub,DC Fast,CHAdeMO,Private,UPI,Failed,1.95,17,18,0.0,95.5,69.4,3
+EVS0360,2025-07-15,Kanpur,Mall Parking,AC,Type 2,Fleet,Card,Completed,22.8,97,12,246.24,96.6,38.9,5
+EVS0361,2025-12-16,Delhi,Market Square,AC,Type 2,Taxi/Ride-share,UPI,Completed,11.29,100,12,135.48,96.3,71.2,4
+EVS0362,2025-02-16,Noida,Airport Express,Ultra Fast,CCS2,Private,Card,Completed,47.01,22,22,1034.22,94.3,32.3,4
+EVS0363,2025-09-26,Noida,Highway Stop,AC,Type 2,Private,Card,Completed,11.85,128,12,142.2,95.5,42.2,4
+EVS0364,2026-01-05,Jaipur,Airport Express,DC Fast,CCS2,Taxi/Ride-share,UPI,Completed,35.17,45,18,633.06,93.8,7.1,4
+EVS0365,2026-09-28,Noida,Tech Park Station,DC Fast,CHAdeMO,Private,Subscription,Cancelled,1.19,8,18,0.0,92.7,38.3,3
+EVS0366,2025-04-16,Gurugram,Residential Cluster,AC,Type 2,Private,UPI,Failed,0.49,19,12,0.0,98.3,61.8,3
+EVS0367,2025-04-30,Kanpur,City Centre Hub,DC Fast,CHAdeMO,Fleet,Wallet,Completed,24.12,45,18,390.74,96.3,25.8,2
+EVS0368,2026-08-27,Kanpur,Tech Park Station,AC,Type 2,Taxi/Ride-share,UPI,Completed,28.47,109,12,341.64,95.5,49.8,5
+EVS0369,2025-02-27,Lucknow,Residential Cluster,AC,Type 2,Fleet,Wallet,Completed,24.05,125,12,259.74,94.5,5.3,3
+EVS0370,2025-12-12,Kanpur,City Centre Hub,DC Fast,CCS2,Private,Card,Completed,35.49,49,18,638.82,95.5,59.4,2
+EVS0371,2026-04-19,Chandigarh,Residential Cluster,Ultra Fast,CCS2,Private,Wallet,Completed,43.51,27,22,957.22,96.5,67.8,5
+EVS0372,2025-04-27,Kanpur,Market Square,DC Fast,CCS2,Fleet,UPI,Completed,25.86,42,18,418.93,100.0,9.3,3
+EVS0373,2025-05-07,Jaipur,Highway Stop,DC Fast,CCS2,Fleet,Card,Completed,25.45,60,18,412.29,98.0,39.5,4
+EVS0374,2026-01-28,Kanpur,Business District,AC,Type 2,Taxi/Ride-share,Card,Completed,7.29,123,12,87.48,94.0,66.2,4
+EVS0375,2025-02-27,Lucknow,Tech Park Station,AC,Type 2,Private,Card,Cancelled,1.9,13,12,0.0,94.0,27.3,3
+EVS0376,2026-09-26,Delhi,Tech Park Station,AC,Type 2,Taxi/Ride-share,Card,Completed,24.45,109,12,293.4,93.6,19.1,4
+EVS0377,2026-05-28,Gurugram,University Point,AC,Type 2,Private,Card,Completed,19.61,84,12,235.32,95.4,47.7,1
+EVS0378,2025-04-06,Jaipur,Railway Station Hub,AC,Type 2,Private,UPI,Completed,15.38,130,12,184.56,93.6,52.0,5
+EVS0379,2026-09-30,Chandigarh,Market Square,AC,Type 2,Private,UPI,Completed,9.56,117,12,114.72,97.4,54.2,4
+EVS0380,2025-04-28,Delhi,Market Square,AC,Type 2,Private,Card,Failed,0.69,11,12,0.0,88.1,29.2,3
+EVS0381,2026-07-14,Jaipur,Airport Express,AC,Type 2,Fleet,UPI,Cancelled,0.76,2,12,0.0,97.6,79.9,3
+EVS0382,2026-08-24,Agra,Residential Cluster,DC Fast,CHAdeMO,Fleet,Subscription,Cancelled,1.96,11,18,0.0,96.8,8.0,4
+EVS0383,2026-05-03,Noida,Railway Station Hub,DC Fast,CHAdeMO,Private,Card,Completed,38.86,56,18,699.48,99.8,49.1,3
+EVS0384,2025-08-25,Agra,Highway Stop,AC,Type 2,Fleet,Subscription,Completed,25.72,117,12,277.78,98.6,70.1,3
+EVS0385,2025-09-29,Kanpur,Highway Stop,Ultra Fast,CCS2,Private,UPI,Completed,64.98,10,22,1429.56,93.9,41.0,4
+EVS0386,2025-07-08,Delhi,Market Square,Ultra Fast,CCS2,Taxi/Ride-share,Wallet,Cancelled,2.59,15,22,0.0,98.3,30.5,5
+EVS0387,2026-03-23,Kanpur,Highway Stop,AC,Type 2,Corporate,Wallet,Completed,19.47,123,12,233.64,95.5,43.4,4
+EVS0388,2026-08-04,Noida,University Point,DC Fast,CCS2,Private,Card,Failed,0.35,2,18,0.0,90.2,31.4,5
+EVS0389,2025-09-04,Jaipur,Tech Park Station,DC Fast,CCS2,Fleet,Card,Failed,3.55,10,18,0.0,96.5,46.4,5
+EVS0390,2025-03-17,Noida,Mall Parking,DC Fast,CHAdeMO,Private,UPI,Completed,29.95,22,18,539.1,94.1,40.7,3
+EVS0391,2025-06-03,Lucknow,Business District,AC,Type 2,Private,Wallet,Completed,8.66,113,12,103.92,96.0,9.8,5
+EVS0392,2026-03-11,Noida,Airport Express,DC Fast,CCS2,Private,Card,Completed,28.17,42,18,507.06,100.0,36.5,5
+EVS0393,2025-03-27,Lucknow,Residential Cluster,AC,Type 2,Taxi/Ride-share,UPI,Cancelled,1.6,31,12,0.0,96.7,54.9,4
+EVS0394,2025-10-12,Noida,Business District,DC Fast,CHAdeMO,Fleet,UPI,Completed,28.21,70,18,457.0,92.9,17.4,5
+EVS0395,2025-08-08,Gurugram,Residential Cluster,DC Fast,CHAdeMO,Private,Subscription,Cancelled,3.47,18,18,0.0,98.9,34.8,3
+EVS0396,2025-03-10,Lucknow,City Centre Hub,DC Fast,CCS2,Taxi/Ride-share,Wallet,Completed,29.37,17,18,528.66,97.1,46.8,3
+EVS0397,2025-02-16,Delhi,Business District,DC Fast,CCS2,Fleet,Subscription,Completed,37.35,60,18,605.07,92.6,48.3,5
+EVS0398,2025-04-04,Kanpur,Mall Parking,DC Fast,CCS2,Taxi/Ride-share,Card,Failed,3.6,4,18,0.0,91.2,41.1,4
+EVS0399,2026-03-29,Chandigarh,Market Square,AC,Type 2,Fleet,UPI,Completed,16.47,98,12,177.88,93.1,42.1,4
+EVS0400,2025-07-23,Kanpur,University Point,AC,Type 2,Fleet,UPI,Completed,14.01,126,12,151.31,98.5,35.3,3
+EVS0401,2025-08-06,Agra,Tech Park Station,DC Fast,CCS2,Private,UPI,Completed,24.39,27,18,439.02,95.1,36.8,5
+EVS0402,2026-04-19,Kanpur,Tech Park Station,AC,Type 2,Private,UPI,Completed,23.02,123,12,276.24,96.2,36.2,5
+EVS0403,2026-03-08,Jaipur,University Point,AC,Type 2,Corporate,UPI,Cancelled,1.92,6,12,0.0,92.0,76.6,4
+EVS0404,2025-12-07,Gurugram,Railway Station Hub,AC,Type 2,Private,UPI,Completed,26.15,115,12,313.8,98.6,36.6,5
+EVS0405,2026-07-05,Noida,City Centre Hub,AC,Type 2,Corporate,UPI,Failed,4.36,13,12,0.0,90.0,24.5,4
+EVS0406,2026-09-04,Agra,Residential Cluster,Ultra Fast,CCS2,Fleet,Subscription,Cancelled,0.0,1,22,0.0,94.0,48.5,3
+EVS0407,2025-10-16,Jaipur,Mall Parking,DC Fast,CHAdeMO,Private,UPI,Completed,38.99,65,18,701.82,97.3,52.4,4
+EVS0408,2025-09-11,Jaipur,Highway Stop,Ultra Fast,CCS2,Private,Wallet,Completed,32.65,64,22,718.3,92.6,36.7,5
+EVS0409,2025-12-23,Lucknow,Business District,DC Fast,CHAdeMO,Private,Card,Completed,50.63,45,18,911.34,97.8,53.3,3
+EVS0410,2025-01-23,Kanpur,City Centre Hub,DC Fast,CHAdeMO,Corporate,UPI,Completed,38.04,58,18,684.72,93.4,30.8,2
+EVS0411,2026-06-06,Delhi,Business District,AC,Type 2,Private,UPI,Failed,3.77,17,12,0.0,92.3,49.7,5
+EVS0412,2025-04-10,Chandigarh,Mall Parking,DC Fast,CCS2,Private,UPI,Completed,34.1,54,18,613.8,99.9,52.1,5
+EVS0413,2025-06-29,Delhi,Airport Express,AC,Type 2,Private,UPI,Completed,21.39,131,12,256.68,96.5,33.1,4
+EVS0414,2025-08-11,Agra,Airport Express,Ultra Fast,CCS2,Private,Card,Completed,20.27,32,22,445.94,97.6,73.8,3
+EVS0415,2026-03-18,Gurugram,City Centre Hub,DC Fast,CHAdeMO,Fleet,UPI,Completed,37.16,40,18,601.99,99.1,77.0,5
+EVS0416,2026-08-31,Delhi,Market Square,AC,Type 2,Private,UPI,Completed,22.94,149,12,275.28,88.1,34.3,5
+EVS0417,2025-11-21,Noida,Mall Parking,Ultra Fast,CCS2,Taxi/Ride-share,UPI,Completed,47.18,39,22,1037.96,97.9,11.9,4
+EVS0418,2026-05-31,Delhi,Mall Parking,DC Fast,CCS2,Private,Subscription,Completed,49.99,44,18,899.82,93.7,15.6,5
+EVS0419,2025-01-16,Agra,University Point,DC Fast,CCS2,Private,Wallet,Completed,22.05,53,18,396.9,94.1,51.8,5
+EVS0420,2025-12-02,Chandigarh,Market Square,AC,Type 2,Fleet,Wallet,Completed,4.13,73,12,44.6,97.3,56.4,5
+EVS0421,2025-09-15,Delhi,Residential Cluster,DC Fast,CCS2,Private,UPI,Completed,35.73,10,18,643.14,94.9,22.8,5
+EVS0422,2026-05-12,Noida,Residential Cluster,DC Fast,CCS2,Corporate,Wallet,Completed,17.27,35,18,310.86,97.8,66.2,4
+EVS0423,2025-06-09,Lucknow,Highway Stop,AC,Type 2,Fleet,Wallet,Completed,13.46,112,12,145.37,95.9,40.9,4
+EVS0424,2026-04-20,Gurugram,Tech Park Station,AC,Type 2,Private,Card,Completed,25.01,119,12,300.12,96.5,70.0,4
+EVS0425,2026-01-15,Agra,Airport Express,DC Fast,CCS2,Fleet,Subscription,Completed,22.6,66,18,366.12,94.5,43.9,4
+EVS0426,2026-06-29,Lucknow,Residential Cluster,AC,Type 2,Private,UPI,Completed,9.0,118,12,108.0,92.8,68.4,5
+EVS0427,2026-03-03,Lucknow,Market Square,DC Fast,CCS2,Private,Subscription,Completed,14.75,46,18,265.5,93.8,19.1,5
+EVS0428,2026-09-05,Lucknow,Mall Parking,Ultra Fast,CCS2,Corporate,Subscription,Failed,1.12,20,22,0.0,95.7,50.6,4
+EVS0429,2025-09-25,Jaipur,Residential Cluster,Ultra Fast,CCS2,Taxi/Ride-share,UPI,Failed,2.36,7,22,0.0,100.0,53.1,4
+EVS0430,2026-07-31,Gurugram,Mall Parking,AC,Type 2,Corporate,UPI,Completed,13.09,109,12,157.08,100.0,71.2,4
+EVS0431,2026-02-21,Chandigarh,Residential Cluster,Ultra Fast,CCS2,Fleet,Subscription,Failed,3.75,24,22,0.0,94.0,46.1,4
+EVS0432,2025-06-17,Kanpur,Airport Express,AC,Type 2,Fleet,UPI,Cancelled,0.34,18,12,0.0,96.2,27.3,4
+EVS0433,2025-02-12,Gurugram,Business District,AC,Type 2,Private,Card,Completed,7.09,106,12,85.08,95.1,24.0,1
+EVS0434,2026-07-10,Jaipur,Residential Cluster,DC Fast,CHAdeMO,Private,Subscription,Completed,21.61,61,18,388.98,96.4,56.2,4
+EVS0435,2025-10-12,Kanpur,Market Square,AC,Type 2,Taxi/Ride-share,Card,Cancelled,0.0,15,12,0.0,96.8,24.6,2
+EVS0436,2026-02-01,Gurugram,Residential Cluster,AC,Type 2,Private,UPI,Completed,18.0,111,12,216.0,97.6,50.3,1
+EVS0437,2025-01-12,Lucknow,Tech Park Station,DC Fast,CCS2,Taxi/Ride-share,Card,Completed,50.72,73,18,912.96,87.3,51.0,5
+EVS0438,2026-08-30,Agra,Airport Express,AC,Type 2,Taxi/Ride-share,UPI,Cancelled,1.33,9,12,0.0,97.1,63.3,3
+EVS0439,2025-10-29,Kanpur,Market Square,AC,Type 2,Private,Card,Completed,8.51,114,12,102.12,94.8,45.6,4
+EVS0440,2025-09-10,Noida,University Point,DC Fast,CHAdeMO,Fleet,UPI,Completed,53.88,39,18,872.86,93.9,16.6,2
+EVS0441,2026-05-14,Noida,Market Square,DC Fast,CHAdeMO,Taxi/Ride-share,Card,Failed,2.37,1,18,0.0,98.4,43.9,3
+EVS0442,2025-02-04,Delhi,Tech Park Station,DC Fast,CCS2,Private,Card,Completed,27.13,50,18,488.34,100.0,31.2,5
+EVS0443,2025-03-31,Kanpur,Business District,AC,Type 2,Taxi/Ride-share,Wallet,Completed,18.67,129,12,224.04,98.1,62.3,4
+EVS0444,2026-08-28,Agra,Airport Express,DC Fast,CCS2,Fleet,Card,Completed,25.25,10,18,409.05,94.4,82.5,5
+EVS0445,2026-08-25,Chandigarh,University Point,AC,Type 2,Private,Card,Completed,25.07,98,12,300.84,92.8,32.7,4
+EVS0446,2026-02-22,Jaipur,Tech Park Station,AC,Type 2,Fleet,Card,Cancelled,2.11,15,12,0.0,87.0,60.7,3
+EVS0447,2025-04-25,Lucknow,Tech Park Station,DC Fast,CCS2,Corporate,UPI,Completed,13.37,60,18,240.66,96.5,14.8,4
+EVS0448,2026-09-09,Delhi,City Centre Hub,AC,Type 2,Private,Card,Completed,14.43,115,12,173.16,97.7,60.9,5
+EVS0449,2025-07-15,Noida,Airport Express,AC,Type 2,Taxi/Ride-share,UPI,Completed,15.74,144,12,188.88,95.7,60.5,4
+EVS0450,2026-05-16,Jaipur,Market Square,DC Fast,CHAdeMO,Private,Subscription,Completed,47.05,10,18,846.9,98.8,72.1,5
+EVS0451,2026-09-18,Jaipur,Mall Parking,DC Fast,CCS2,Taxi/Ride-share,UPI,Completed,57.3,29,18,1031.4,92.0,44.8,4
+EVS0452,2026-05-08,Lucknow,Business District,DC Fast,CHAdeMO,Taxi/Ride-share,UPI,Cancelled,4.02,9,18,0.0,95.5,20.8,4
+EVS0453,2025-03-16,Chandigarh,Mall Parking,AC,Type 2,Private,Card,Completed,15.85,110,12,190.2,95.2,17.8,5
+EVS0454,2026-02-17,Chandigarh,Market Square,AC,Type 2,Private,UPI,Completed,15.48,160,12,185.76,95.7,25.8,5
+EVS0455,2026-01-11,Kanpur,Market Square,AC,Type 2,Taxi/Ride-share,UPI,Completed,17.52,109,12,210.24,99.5,12.6,4
+EVS0456,2026-02-24,Noida,Airport Express,AC,Type 2,Fleet,Card,Cancelled,1.59,4,12,0.0,95.7,22.7,3
+EVS0457,2025-10-04,Chandigarh,Market Square,DC Fast,CCS2,Taxi/Ride-share,Card,Failed,3.42,1,18,0.0,95.1,50.9,4
+EVS0458,2026-01-29,Agra,City Centre Hub,DC Fast,CCS2,Private,Card,Failed,0.76,19,18,0.0,93.2,52.1,4
+EVS0459,2026-04-02,Chandigarh,University Point,DC Fast,CHAdeMO,Taxi/Ride-share,UPI,Cancelled,1.55,16,18,0.0,100.0,76.4,5
+EVS0460,2025-07-11,Jaipur,Market Square,DC Fast,CHAdeMO,Taxi/Ride-share,Card,Completed,49.17,60,18,885.06,91.7,54.8,4
+EVS0461,2025-04-09,Lucknow,Mall Parking,AC,Type 2,Corporate,UPI,Completed,18.87,152,12,226.44,94.3,40.6,2
+EVS0462,2026-07-02,Agra,Market Square,DC Fast,CCS2,Private,Card,Completed,24.96,40,18,449.28,100.0,45.4,5
+EVS0463,2025-04-06,Kanpur,City Centre Hub,AC,Type 2,Fleet,Card,Completed,17.81,113,12,192.35,97.4,21.0,5
+EVS0464,2025-07-09,Noida,Residential Cluster,DC Fast,CHAdeMO,Fleet,Card,Cancelled,0.22,1,18,0.0,95.9,52.5,3
+EVS0465,2025-02-06,Kanpur,Residential Cluster,DC Fast,CHAdeMO,Private,UPI,Failed,2.0,6,18,0.0,96.1,69.7,5
+EVS0466,2026-01-04,Jaipur,Tech Park Station,AC,Type 2,Fleet,UPI,Completed,30.02,113,12,324.22,93.2,24.7,4
+EVS0467,2026-06-09,Agra,Business District,AC,Type 2,Private,UPI,Failed,1.2,20,12,0.0,95.8,78.2,4
+EVS0468,2025-10-06,Agra,Highway Stop,Ultra Fast,CCS2,Taxi/Ride-share,UPI,Completed,51.33,23,22,1129.26,95.0,41.2,5
+EVS0469,2025-08-05,Agra,University Point,AC,Type 2,Fleet,UPI,Completed,13.96,180,12,150.77,96.5,23.1,4
+EVS0470,2025-09-30,Jaipur,Railway Station Hub,AC,Type 2,Private,Card,Completed,20.28,134,12,243.36,91.5,37.0,3
+EVS0471,2025-03-03,Jaipur,Tech Park Station,AC,Type 2,Taxi/Ride-share,UPI,Completed,11.56,104,12,138.72,97.2,15.3,4
+EVS0472,2026-08-19,Kanpur,Business District,DC Fast,CHAdeMO,Fleet,Subscription,Completed,55.66,67,18,901.69,99.0,57.0,5
+EVS0473,2025-12-08,Delhi,Residential Cluster,DC Fast,CHAdeMO,Private,UPI,Completed,37.13,35,18,668.34,95.4,17.6,3
+EVS0474,2026-02-01,Kanpur,Mall Parking,DC Fast,CHAdeMO,Corporate,Wallet,Completed,29.38,29,18,528.84,97.9,22.0,4
+EVS0475,2025-01-19,Noida,Railway Station Hub,AC,Type 2,Corporate,Card,Completed,10.71,131,12,128.52,96.9,79.6,5
+EVS0476,2025-06-26,Lucknow,Business District,DC Fast,CCS2,Fleet,UPI,Cancelled,2.15,17,18,0.0,94.2,36.5,4
+EVS0477,2026-09-04,Agra,Business District,AC,Type 2,Private,UPI,Cancelled,1.1,14,12,0.0,92.8,17.7,5
+EVS0478,2026-01-31,Delhi,Tech Park Station,DC Fast,CCS2,Taxi/Ride-share,Card,Failed,0.98,6,18,0.0,93.2,40.9,5
+EVS0479,2026-03-21,Lucknow,Railway Station Hub,DC Fast,CHAdeMO,Fleet,UPI,Completed,50.67,44,18,820.85,96.9,48.6,4
+EVS0480,2025-08-21,Delhi,Airport Express,AC,Type 2,Private,Subscription,Completed,21.2,130,12,254.4,95.8,59.4,4
+EVS0481,2025-03-17,Chandigarh,Highway Stop,AC,Type 2,Fleet,Card,Completed,18.84,119,12,203.47,99.8,78.5,3
+EVS0482,2025-09-22,Chandigarh,Airport Express,AC,Type 2,Fleet,Subscription,Completed,11.15,98,12,120.42,98.4,32.8,4
+EVS0483,2026-03-31,Gurugram,Railway Station Hub,AC,Type 2,Fleet,UPI,Completed,12.03,125,12,129.92,98.4,39.1,5
+EVS0484,2026-01-19,Chandigarh,Airport Express,AC,Type 2,Private,Wallet,Completed,18.45,98,12,221.4,96.8,59.0,4
+EVS0485,2026-07-18,Kanpur,City Centre Hub,DC Fast,CCS2,Fleet,Card,Completed,38.5,51,18,623.7,93.1,30.4,4
+EVS0486,2026-05-21,Chandigarh,Residential Cluster,DC Fast,CCS2,Corporate,Wallet,Completed,24.22,41,18,435.96,97.0,4.4,4
+EVS0487,2026-01-02,Jaipur,City Centre Hub,AC,Type 2,Private,UPI,Completed,21.45,99,12,257.4,96.2,73.5,4
+EVS0488,2025-05-24,Agra,Market Square,AC,Type 2,Taxi/Ride-share,Card,Completed,21.57,120,12,258.84,92.6,51.1,3
+EVS0489,2025-03-10,Kanpur,Airport Express,AC,Type 2,Taxi/Ride-share,Card,Completed,11.71,118,12,140.52,99.6,51.5,5
+EVS0490,2025-04-09,Lucknow,Market Square,Ultra Fast,CCS2,Fleet,Wallet,Completed,50.76,15,22,1005.05,99.3,38.5,3
+EVS0491,2026-01-31,Gurugram,Mall Parking,AC,Type 2,Private,UPI,Completed,14.55,96,12,174.6,92.6,31.5,5
+EVS0492,2025-01-25,Gurugram,University Point,DC Fast,CHAdeMO,Fleet,Wallet,Completed,26.97,41,18,436.91,94.1,87.0,4
+EVS0493,2026-04-14,Gurugram,Mall Parking,DC Fast,CCS2,Fleet,UPI,Completed,25.9,15,18,419.58,94.4,51.2,4
+EVS0494,2026-04-29,Lucknow,Railway Station Hub,DC Fast,CHAdeMO,Taxi/Ride-share,Wallet,Completed,24.29,34,18,437.22,97.8,25.3,3
+EVS0495,2026-07-19,Lucknow,Business District,Ultra Fast,CCS2,Fleet,Wallet,Completed,57.87,37,22,1145.83,97.5,35.4,5
+EVS0496,2025-05-31,Lucknow,Residential Cluster,AC,Type 2,Corporate,Wallet,Completed,23.27,101,12,279.24,96.1,36.0,3
+EVS0497,2025-05-24,Lucknow,Airport Express,Ultra Fast,CCS2,Private,Card,Completed,47.23,10,22,1039.06,96.8,33.8,2
+EVS0498,2026-07-23,Gurugram,Tech Park Station,AC,Type 2,Private,UPI,Completed,20.7,125,12,248.4,92.1,29.6,4
+EVS0499,2025-02-08,Gurugram,University Point,AC,Type 2,Fleet,Subscription,Failed,1.08,14,12,0.0,97.1,70.3,5
+EVS0500,2025-04-19,Delhi,Highway Stop,DC Fast,CHAdeMO,Private,UPI,Completed,15.03,27,18,270.54,95.7,6.1,2
+EVS0501,2025-02-11,Kanpur,Highway Stop,Ultra Fast,CCS2,Private,Card,Completed,57.06,36,22,1255.32,94.0,28.2,2
+EVS0502,2025-07-05,Agra,Highway Stop,DC Fast,CCS2,Private,Card,Completed,27.39,56,18,493.02,91.4,64.9,5
+EVS0503,2026-02-02,Chandigarh,Airport Express,AC,Type 2,Private,Card,Completed,18.87,105,12,226.44,96.1,52.0,5
+EVS0504,2025-08-11,Chandigarh,Highway Stop,AC,Type 2,Private,UPI,Completed,16.85,106,12,202.2,97.1,61.1,3
+EVS0505,2026-09-26,Jaipur,City Centre Hub,Ultra Fast,CCS2,Corporate,Card,Completed,26.36,49,22,579.92,90.9,68.5,4
+EVS0506,2025-05-13,Gurugram,University Point,AC,Type 2,Private,Wallet,Cancelled,0.82,5,12,0.0,96.1,3.0,4
+EVS0507,2025-06-12,Jaipur,City Centre Hub,DC Fast,CHAdeMO,Taxi/Ride-share,UPI,Completed,14.87,10,18,267.66,96.4,39.6,4
+EVS0508,2025-08-03,Kanpur,Business District,DC Fast,CHAdeMO,Taxi/Ride-share,Subscription,Completed,39.86,56,18,717.48,94.3,52.9,5
+EVS0509,2025-08-23,Kanpur,University Point,DC Fast,CHAdeMO,Corporate,UPI,Completed,45.36,39,18,816.48,97.1,32.3,2
+EVS0510,2026-08-11,Jaipur,City Centre Hub,AC,Type 2,Private,UPI,Cancelled,1.11,7,12,0.0,95.6,51.2,5
+EVS0511,2025-01-09,Gurugram,University Point,DC Fast,CHAdeMO,Taxi/Ride-share,UPI,Completed,27.33,62,18,491.94,96.8,20.2,4
+EVS0512,2025-03-15,Jaipur,Business District,AC,Type 2,Fleet,UPI,Failed,1.47,15,12,0.0,97.6,40.0,4
+EVS0513,2026-05-07,Chandigarh,Market Square,Ultra Fast,CCS2,Fleet,Subscription,Completed,38.04,50,22,753.19,97.6,46.7,4
+EVS0514,2025-09-10,Delhi,Airport Express,DC Fast,CHAdeMO,Fleet,UPI,Failed,0.0,2,18,0.0,99.1,46.9,5
+EVS0515,2025-08-18,Chandigarh,Airport Express,Ultra Fast,CCS2,Taxi/Ride-share,UPI,Failed,1.96,26,22,0.0,97.0,38.9,2
+EVS0516,2026-06-03,Noida,Highway Stop,AC,Type 2,Private,UPI,Completed,16.58,99,12,198.96,94.6,26.4,1
+EVS0517,2025-06-23,Gurugram,Mall Parking,Ultra Fast,CCS2,Taxi/Ride-share,Card,Completed,60.76,32,22,1336.72,94.1,53.4,3
+EVS0518,2025-06-17,Gurugram,Highway Stop,DC Fast,CCS2,Fleet,Card,Completed,46.45,18,18,752.49,92.8,56.4,5
+EVS0519,2025-06-19,Agra,Railway Station Hub,AC,Type 2,Taxi/Ride-share,UPI,Completed,25.63,87,12,307.56,96.5,25.5,5
+EVS0520,2026-01-28,Lucknow,City Centre Hub,AC,Type 2,Corporate,UPI,Completed,16.18,122,12,194.16,100.0,30.2,4
+EVS0521,2026-09-26,Noida,University Point,DC Fast,CCS2,Private,Wallet,Completed,34.08,61,18,613.44,94.9,46.1,2
+EVS0522,2025-07-13,Kanpur,Mall Parking,DC Fast,CHAdeMO,Corporate,UPI,Completed,11.54,44,18,207.72,97.3,47.6,5
+EVS0523,2026-06-01,Gurugram,Business District,DC Fast,CHAdeMO,Private,Card,Completed,45.44,43,18,817.92,93.7,61.6,5
+EVS0524,2025-01-29,Jaipur,Railway Station Hub,AC,Type 2,Private,UPI,Failed,0.13,20,12,0.0,96.6,81.9,4
+EVS0525,2025-06-14,Noida,Business District,AC,Type 2,Private,Wallet,Completed,13.92,100,12,167.04,99.8,62.3,4
+EVS0526,2026-02-26,Agra,Airport Express,DC Fast,CCS2,Private,UPI,Completed,21.36,38,18,384.48,98.1,57.3,2
+EVS0527,2025-12-05,Kanpur,Airport Express,AC,Type 2,Fleet,Card,Completed,19.15,92,12,206.82,91.3,83.7,4
+EVS0528,2026-05-11,Lucknow,Highway Stop,DC Fast,CHAdeMO,Private,UPI,Failed,0.22,6,18,0.0,97.7,40.6,5
+EVS0529,2025-12-31,Lucknow,City Centre Hub,Ultra Fast,CCS2,Private,Subscription,Completed,29.96,27,22,659.12,97.8,44.2,2
+EVS0530,2025-12-08,Agra,Mall Parking,Ultra Fast,CCS2,Corporate,UPI,Completed,50.69,31,22,1115.18,96.5,50.3,4
+EVS0531,2026-05-15,Agra,Residential Cluster,Ultra Fast,CCS2,Taxi/Ride-share,Wallet,Completed,48.55,57,22,1068.1,98.0,7.5,3
+EVS0532,2026-05-26,Jaipur,Railway Station Hub,DC Fast,CCS2,Taxi/Ride-share,UPI,Completed,36.75,56,18,661.5,93.5,33.4,5
+EVS0533,2025-11-23,Gurugram,Railway Station Hub,AC,Type 2,Taxi/Ride-share,UPI,Completed,15.39,131,12,184.68,96.2,5.7,4
+EVS0534,2025-08-05,Lucknow,Highway Stop,AC,Type 2,Taxi/Ride-share,Wallet,Failed,0.95,15,12,0.0,99.3,11.7,3
+EVS0535,2025-10-28,Kanpur,Airport Express,DC Fast,CHAdeMO,Private,UPI,Cancelled,0.0,13,18,0.0,99.1,19.5,4
+EVS0536,2025-05-12,Noida,Highway Stop,DC Fast,CHAdeMO,Private,Wallet,Completed,21.08,58,18,379.44,97.6,31.1,4
+EVS0537,2025-03-11,Kanpur,University Point,AC,Type 2,Taxi/Ride-share,Subscription,Cancelled,2.55,8,12,0.0,93.4,40.3,3
+EVS0538,2025-09-09,Delhi,Mall Parking,DC Fast,CHAdeMO,Private,Wallet,Completed,54.96,36,18,989.28,92.9,43.9,5
+EVS0539,2026-02-19,Delhi,City Centre Hub,AC,Type 2,Taxi/Ride-share,UPI,Completed,7.84,100,12,94.08,96.3,38.0,1
+EVS0540,2026-03-21,Agra,Market Square,DC Fast,CHAdeMO,Private,Wallet,Cancelled,0.25,15,18,0.0,96.5,55.4,4
+EVS0541,2025-07-01,Jaipur,Tech Park Station,Ultra Fast,CCS2,Private,UPI,Completed,25.54,17,22,561.88,95.7,32.2,1
+EVS0542,2025-06-16,Delhi,Tech Park Station,DC Fast,CHAdeMO,Fleet,Wallet,Completed,35.52,44,18,575.42,93.6,46.0,2
+EVS0543,2025-04-01,Lucknow,Highway Stop,AC,Type 2,Fleet,Card,Completed,17.92,117,12,193.54,97.3,45.0,3
+EVS0544,2026-06-15,Kanpur,University Point,Ultra Fast,CCS2,Fleet,Wallet,Completed,39.16,10,22,775.37,96.3,26.3,2
+EVS0545,2025-02-08,Kanpur,Mall Parking,DC Fast,CHAdeMO,Taxi/Ride-share,Card,Completed,27.56,50,18,496.08,96.9,28.8,4
+EVS0546,2025-05-06,Agra,Residential Cluster,AC,Type 2,Private,Card,Completed,17.14,122,12,205.68,97.8,27.1,2
+EVS0547,2026-03-27,Gurugram,Tech Park Station,AC,Type 2,Private,UPI,Completed,14.3,132,12,171.6,95.2,69.8,5
+EVS0548,2025-06-22,Gurugram,Mall Parking,AC,Type 2,Taxi/Ride-share,Wallet,Failed,0.0,13,12,0.0,94.5,44.7,2
+EVS0549,2025-08-08,Noida,City Centre Hub,AC,Type 2,Taxi/Ride-share,UPI,Completed,26.5,141,12,318.0,99.3,19.4,2
+EVS0550,2026-09-30,Agra,Business District,Ultra Fast,CCS2,Private,Card,Cancelled,1.22,1,22,0.0,93.7,15.3,4
+EVS0551,2025-02-27,Chandigarh,University Point,DC Fast,CHAdeMO,Taxi/Ride-share,Wallet,Cancelled,3.14,11,18,0.0,94.6,50.8,5
+EVS0552,2026-04-21,Noida,Airport Express,Ultra Fast,CCS2,Private,Card,Completed,42.5,10,22,935.0,99.7,40.4,4
+EVS0553,2026-04-01,Chandigarh,Mall Parking,AC,Type 2,Fleet,UPI,Completed,10.13,125,12,109.4,94.4,68.1,5
+EVS0554,2025-12-27,Gurugram,City Centre Hub,AC,Type 2,Private,Card,Completed,22.22,118,12,266.64,95.7,65.5,3
+EVS0555,2025-01-01,Agra,Residential Cluster,DC Fast,CCS2,Taxi/Ride-share,UPI,Completed,23.44,22,18,421.92,94.8,37.8,5
+EVS0556,2026-01-22,Chandigarh,Market Square,AC,Type 2,Taxi/Ride-share,UPI,Failed,0.0,7,12,0.0,90.7,34.0,1
+EVS0557,2025-12-14,Agra,Airport Express,DC Fast,CCS2,Private,UPI,Completed,20.73,11,18,373.14,95.6,42.3,3
+EVS0558,2025-07-09,Agra,Market Square,Ultra Fast,CCS2,Taxi/Ride-share,UPI,Completed,55.26,10,22,1215.72,93.0,14.8,4
+EVS0559,2026-05-20,Gurugram,Residential Cluster,DC Fast,CCS2,Private,UPI,Completed,43.02,49,18,774.36,96.8,25.1,4
+EVS0560,2025-07-10,Noida,City Centre Hub,DC Fast,CHAdeMO,Private,Card,Completed,35.3,71,18,635.4,99.3,22.9,5
+EVS0561,2026-05-23,Noida,Tech Park Station,AC,Type 2,Private,UPI,Completed,9.9,130,12,118.8,89.4,16.7,1
+EVS0562,2026-01-04,Agra,Market Square,AC,Type 2,Private,UPI,Completed,16.12,161,12,193.44,94.8,19.1,5
+EVS0563,2026-02-13,Delhi,Airport Express,AC,Type 2,Private,Subscription,Completed,15.6,105,12,187.2,97.4,76.5,4
+EVS0564,2025-04-27,Jaipur,Highway Stop,DC Fast,CHAdeMO,Fleet,UPI,Completed,36.77,38,18,595.67,89.4,18.4,4
+EVS0565,2025-05-14,Gurugram,Railway Station Hub,AC,Type 2,Taxi/Ride-share,Card,Completed,13.22,97,12,158.64,100.0,71.2,2
+EVS0566,2025-02-27,Jaipur,Mall Parking,AC,Type 2,Fleet,Wallet,Completed,27.19,94,12,293.65,97.1,41.0,3
+EVS0567,2026-07-10,Jaipur,Tech Park Station,DC Fast,CHAdeMO,Private,Subscription,Completed,34.5,61,18,621.0,99.2,43.7,5
+EVS0568,2025-06-22,Noida,Market Square,AC,Type 2,Private,Wallet,Cancelled,2.83,7,12,0.0,94.3,24.1,4
+EVS0569,2025-05-29,Noida,Business District,AC,Type 2,Private,Wallet,Completed,16.7,107,12,200.4,94.7,36.8,4
+EVS0570,2025-03-21,Delhi,Mall Parking,AC,Type 2,Private,Wallet,Completed,8.33,124,12,99.96,95.5,76.3,5
+EVS0571,2025-08-01,Jaipur,Highway Stop,Ultra Fast,CCS2,Taxi/Ride-share,UPI,Completed,45.61,52,22,1003.42,100.0,87.8,3
+EVS0572,2025-07-22,Jaipur,Residential Cluster,DC Fast,CHAdeMO,Private,Wallet,Completed,22.78,61,18,410.04,100.0,33.3,4
+EVS0573,2025-08-17,Agra,Railway Station Hub,DC Fast,CHAdeMO,Taxi/Ride-share,UPI,Failed,2.89,12,18,0.0,96.4,18.5,5
+EVS0574,2025-08-15,Noida,City Centre Hub,AC,Type 2,Taxi/Ride-share,Subscription,Completed,4.32,105,12,51.84,96.8,37.7,3
+EVS0575,2026-06-16,Jaipur,Highway Stop,Ultra Fast,CCS2,Fleet,UPI,Completed,73.13,32,22,1447.97,97.9,62.0,3
+EVS0576,2026-03-17,Kanpur,Highway Stop,DC Fast,CHAdeMO,Taxi/Ride-share,Card,Cancelled,2.33,11,18,0.0,100.0,66.4,4
+EVS0577,2026-02-06,Delhi,Residential Cluster,AC,Type 2,Fleet,UPI,Completed,16.59,81,12,179.17,97.1,73.4,4
+EVS0578,2025-02-16,Chandigarh,University Point,Ultra Fast,CCS2,Fleet,Wallet,Completed,57.52,46,22,1138.9,96.1,49.9,5
+EVS0579,2025-08-21,Kanpur,Residential Cluster,AC,Type 2,Fleet,UPI,Completed,12.01,111,12,129.71,95.0,17.0,2
+EVS0580,2025-11-01,Kanpur,University Point,DC Fast,CHAdeMO,Fleet,Wallet,Completed,28.49,49,18,461.54,96.7,53.6,5
+EVS0581,2026-06-10,Chandigarh,University Point,DC Fast,CCS2,Private,Wallet,Completed,25.9,58,18,466.2,94.2,23.1,1
+EVS0582,2025-05-23,Gurugram,Tech Park Station,AC,Type 2,Private,UPI,Completed,18.45,69,12,221.4,97.5,60.7,4
+EVS0583,2026-02-19,Gurugram,Tech Park Station,Ultra Fast,CCS2,Private,Wallet,Cancelled,2.03,19,22,0.0,91.7,7.1,4
+EVS0584,2026-05-28,Delhi,Airport Express,DC Fast,CHAdeMO,Fleet,Wallet,Cancelled,0.12,15,18,0.0,95.2,17.2,3
+EVS0585,2026-01-08,Kanpur,Market Square,DC Fast,CCS2,Private,Card,Completed,52.5,44,18,945.0,98.2,44.1,3
+EVS0586,2026-07-20,Jaipur,Market Square,AC,Type 2,Corporate,UPI,Completed,25.19,107,12,302.28,97.1,33.9,5
+EVS0587,2025-09-16,Noida,City Centre Hub,AC,Type 2,Taxi/Ride-share,UPI,Cancelled,1.48,10,12,0.0,94.6,44.7,5
+EVS0588,2026-04-16,Delhi,Market Square,AC,Type 2,Private,UPI,Completed,15.56,112,12,186.72,95.3,67.5,3
+EVS0589,2025-01-12,Agra,Tech Park Station,DC Fast,CCS2,Private,UPI,Cancelled,0.0,9,18,0.0,99.1,68.7,4
+EVS0590,2025-11-26,Chandigarh,Airport Express,AC,Type 2,Taxi/Ride-share,Subscription,Cancelled,3.11,4,12,0.0,92.4,61.9,4
+EVS0591,2025-12-24,Kanpur,Airport Express,DC Fast,CHAdeMO,Taxi/Ride-share,UPI,Completed,20.06,43,18,361.08,92.4,14.7,2
+EVS0592,2026-02-12,Delhi,University Point,DC Fast,CHAdeMO,Taxi/Ride-share,Wallet,Completed,33.25,48,18,598.5,93.2,32.5,4
+EVS0593,2026-01-08,Lucknow,Residential Cluster,AC,Type 2,Private,UPI,Completed,17.28,116,12,207.36,96.0,34.2,5
+EVS0594,2025-01-08,Lucknow,City Centre Hub,DC Fast,CCS2,Private,Card,Completed,28.07,19,18,505.26,91.9,50.5,4
+EVS0595,2025-05-02,Gurugram,University Point,AC,Type 2,Private,Wallet,Cancelled,1.41,17,12,0.0,98.9,55.0,5
+EVS0596,2025-12-14,Chandigarh,Residential Cluster,Ultra Fast,CCS2,Private,Wallet,Completed,53.11,10,22,1168.42,93.2,40.8,2
+EVS0597,2025-03-31,Noida,Market Square,DC Fast,CCS2,Taxi/Ride-share,UPI,Cancelled,1.8,4,18,0.0,96.7,16.9,4
+EVS0598,2025-11-12,Jaipur,University Point,AC,Type 2,Taxi/Ride-share,UPI,Completed,26.77,120,12,321.24,94.3,29.7,4
+EVS0599,2025-06-27,Noida,Mall Parking,AC,Type 2,Fleet,UPI,Completed,23.65,115,12,255.42,95.8,68.1,4
+EVS0600,2026-06-24,Noida,Market Square,AC,Type 2,Taxi/Ride-share,UPI,Completed,17.58,141,12,210.96,91.2,38.7,4
